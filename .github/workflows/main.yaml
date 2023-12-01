@@ -22,7 +22,7 @@ jobs:
       - name: checkout_repo
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          ref: "main"
     # Step 2: Get the latest data and store it as a CSV
     - name: Fetch latest data
       run: Rscript -e "RSocrata::read.socrata('https://data.winnipeg.ca/resource/qd6b-q49i.json') -> df; print(head(df)); readr::write_csv(x = df, file = 'data/narcan.csv', append = FALSE)"    
