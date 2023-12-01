@@ -1,0 +1,25 @@
+
+# https://www.rforseo.com/ressources/launch-an-r-script-using-github-actions
+# https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/
+
+name: Data Pipeline
+
+# Controls when the action will run 
+on: 
+  schedule:
+    - cron: '0 13 * * *'
+  push:
+    branches: [main, master]
+
+
+jobs:
+  scrape:
+    name: narcan data refresh main 
+    runs-on: ubuntu-latest
+    container:
+      image: myominnoo/rstudio:4.3.2
+    steps: 
+      - name: checkout_repo
+        uses: actions/checkout@v2
+        with:
+          ref: "main"
