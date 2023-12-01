@@ -23,9 +23,8 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: 'main'
-      - name: Add data to safe directory
-        run: |
-          git config --global --add safe.directory /__w/wpgnarcan/wpgnarcan
       ## Run R script through bash 
       - name: Refresh the data
         run: bash data_refresh.sh "main"
+      - name: Save CSV
+        run: Rscript -e "readr::write_csv(x = df, file = 'data/narcan.csv', append = FALSE)"
