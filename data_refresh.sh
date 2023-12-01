@@ -7,7 +7,6 @@ echo "Updating the total dataset"
 Rscript -e "source('data_refresh.R', echo = TRUE)"
 
 if [[ "$(git status --porcelain)" != "" ]]; then
-    git config --global --add safe.directory /__w/wpgnarcan/wpgnarcan
     git config --global user.name 'myominnoo'
     git config --global user.email 'dr.myominnoo@gmail.com'
     git add data/*
