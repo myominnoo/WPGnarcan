@@ -2,7 +2,7 @@
 # https://www.rforseo.com/ressources/launch-an-r-script-using-github-actions
 # https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/
 
-name: Data Pipeline
+name: Data Refresh Pipeline
 
 # Controls when the action will run 
 on: 
@@ -23,9 +23,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: "main"
-      # Step 2: Get the latest data and store it as a CSV
-      - name: Fetch latest data
-        run: Rscript -e "download.file('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv', destfile = './data/usgs_current.csv')"
       # Step 3: Commit and push
-      - name: Commit and push
+      - name: Refresh the data
         run: bash data_refresh.sh "main"
