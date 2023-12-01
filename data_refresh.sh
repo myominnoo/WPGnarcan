@@ -4,6 +4,8 @@ echo $1
 
 echo "Updating the total dataset"
 
+git config --global --add safe.directory ./data/*
+
 Rscript -e "source('data_refresh.R', echo = TRUE)"
 
 if [[ "$(git status --porcelain)" != "" ]]; then
