@@ -4,7 +4,7 @@ echo $1
 
 echo "Updating the total dataset"
 
-git config --global --add safe.directory /__w/wpgnarcan/wpgnarcan
+# git config --global --add safe.directory /__w/wpgnarcan/wpgnarcan
 
 Rscript -e "source('data_refresh.R', echo = TRUE)"
 
