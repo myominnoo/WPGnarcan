@@ -19904,3 +19904,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023160124,2023-11-30T21:10:19Z,1,65 to 69,Male,Point Douglas,NE088,Logan-C.P.R.,10
 2023160140,2023-11-30T21:50:14Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
 2023160182,2023-11-30T23:49:30Z,1,20 to 24,Male,Daniel McIntyre,NE025,Central Park,5
+2023160069,2023-11-30T18:51:56Z,1,25 to 29,Male,Elmwood - East Kildonan,NE157,Rossmere-B,2
+2023160201,2023-12-01T01:27:30Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,2
+2023160207,2023-12-01T01:38:43Z,1,40 to 44,Male,Mynarski,NE118,North Point Douglas,1
+2023160223,2023-12-01T02:34:15Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,1
+2023160233,2023-12-01T02:54:45Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2023160353,2023-12-01T11:04:52Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023160402,2023-12-01T14:06:14Z,1,35 to 39,Female,Mynarski,NE070,Jefferson,1
+2023160421,2023-12-01T13:44:43Z,1,45 to 49,Female,St. Vital,NE104,Minnetonka,2
+2023160486,2023-12-01T16:07:00Z,1,40 to 44,Female,Mynarski,NE181,St. John's Park,1
+2023160492,2023-12-01T16:20:46Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2023160494,2023-12-01T16:28:05Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,1
+2023160585,2023-12-01T19:50:32Z,1,50 to 54,Female,Old Kildonan,NE085,Leila-McPhillips Triangle,3
+2023160640,2023-12-01T22:09:34Z,1,20 to 24,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
