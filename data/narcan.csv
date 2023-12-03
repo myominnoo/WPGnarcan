@@ -19917,3 +19917,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023160494,2023-12-01T16:28:05Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,1
 2023160585,2023-12-01T19:50:32Z,1,50 to 54,Female,Old Kildonan,NE085,Leila-McPhillips Triangle,3
 2023160640,2023-12-01T22:09:34Z,1,20 to 24,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
+2023160889,2023-12-02T12:37:34Z,1,40 to 44,Male,Point Douglas,NE030,China Town,1
+2023160890,2023-12-02T12:42:11Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023160944,2023-12-02T15:29:35Z,1,55 to 59,Male,Mynarski,NE066,Inkster-Faraday,2
+2023160990,2023-12-02T17:21:49Z,1,30 to 34,Male,Mynarski,NE180,St. John's,1
+2023161071,2023-12-02T20:49:22Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,5
+2023161113,2023-12-02T23:25:18Z,1,30 to 34,Female,St. Boniface,NE172,Southdale,2
