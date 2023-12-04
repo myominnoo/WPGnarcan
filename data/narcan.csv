@@ -19923,3 +19923,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023160990,2023-12-02T17:21:49Z,1,30 to 34,Male,Mynarski,NE180,St. John's,1
 2023161071,2023-12-02T20:49:22Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,5
 2023161113,2023-12-02T23:25:18Z,1,30 to 34,Female,St. Boniface,NE172,Southdale,2
+2023161122,2023-12-02T23:48:32Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,1
+2023161251,2023-12-03T08:25:33Z,1,40 to 44,Female,Elmwood - East Kildonan,NE189,Talbot-Grey,2
+2023161382,2023-12-03T13:52:11Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,2
+2023161383,2023-12-03T13:53:34Z,1,40 to 44,Male,Point Douglas,NE024,Centennial,2
+2023161443,2023-12-03T16:15:30Z,1,20 to 24,Female,Point Douglas,NE024,Centennial,1
+2023161470,2023-12-03T17:41:24Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE150,Riverview,2
+2023161486,2023-12-03T18:30:49Z,1,25 to 29,Male,St. James,NE179,St. James Industrial,2
+2023161489,2023-12-03T18:43:29Z,1,30 to 34,Male,Point Douglas,NE226,Weston,2
+2023161515,2023-12-03T19:56:17Z,1,45 to 49,Male,Old Kildonan,NE084,Leila North,2
+2023161560,2023-12-03T22:16:40Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023161585,2023-12-03T23:07:58Z,1,55 to 59,Male,NA,NA,NA,2
