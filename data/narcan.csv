@@ -19941,3 +19941,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023161996,2023-12-04T19:39:18Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
 2023162027,2023-12-04T21:36:03Z,1,40 to 44,Male,Transcona,NE139,Regent,1
 2023162052,2023-12-04T22:14:04Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
+2023162120,2023-12-05T01:51:11Z,1,30 to 34,Female,Point Douglas,NE226,Weston,1
+2023162157,2023-12-05T04:53:40Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2023162184,2023-12-05T08:12:44Z,1,25 to 29,Male,St. Boniface,NE120,North St. Boniface,1
+2023162231,2023-12-05T09:58:08Z,1,35 to 39,Male,Elmwood - East Kildonan,NE028,Chalmers,4
+2023162259,2023-12-05T10:46:29Z,1,45 to 49,Female,Point Douglas,NE052,Exchange District,1
+2023162270,2023-12-05T11:15:43Z,1,70 to 74,Male,Point Douglas,NE166,South Point Douglas,1
+2023162335,2023-12-05T13:32:10Z,1,45 to 49,Male,Mynarski,NE180,St. John's,1
+2023162355,2023-12-05T14:15:26Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2023162433,2023-12-05T16:34:47Z,1,50 to 54,Male,Mynarski,NE180,St. John's,1
+2023162515,2023-12-05T20:25:21Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2023162525,2023-12-05T21:00:04Z,1,35 to 39,Male,Waverley West,NE141,Richmond West,1
+2023162531,2023-12-05T21:20:46Z,1,45 to 49,Male,Charleswood - Tuxedo - Westwood,NE225,Westdale,5
+2023162537,2023-12-05T21:46:26Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,2
+2023162538,2023-12-05T21:51:44Z,1,35 to 39,Female,Daniel McIntyre,NE136,Portage-Ellice,3
+2023162577,2023-12-05T23:52:32Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
