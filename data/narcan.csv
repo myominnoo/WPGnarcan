@@ -19956,3 +19956,22 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023162537,2023-12-05T21:46:26Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,2
 2023162538,2023-12-05T21:51:44Z,1,35 to 39,Female,Daniel McIntyre,NE136,Portage-Ellice,3
 2023162577,2023-12-05T23:52:32Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
+2023162591,2023-12-06T00:28:54Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,1
+2023162599,2023-12-06T00:53:19Z,1,40 to 44,Female,Point Douglas,NE226,Weston,1
+2023162617,2023-12-06T02:36:29Z,1,30 to 34,Male,Mynarski,NE118,North Point Douglas,1
+2023162658,2023-12-06T06:16:25Z,1,45 to 49,Female,Mynarski,NE232,William Whyte,1
+2023162661,2023-12-06T06:29:26Z,1,50 to 54,Male,Point Douglas,NE163,Shaughnessy Park,2
+2023162696,2023-12-06T09:54:22Z,1,30 to 34,Female,Old Kildonan,NE117,North Inkster Industrial,2
+2023162758,2023-12-06T10:39:59Z,1,30 to 34,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
+2023162826,2023-12-06T13:02:42Z,1,45 to 49,Female,Point Douglas,NE030,China Town,5
+2023162891,2023-12-06T14:26:36Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,6
+2023162899,2023-12-06T14:44:19Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,3
+2023163019,2023-12-06T17:59:33Z,1,45 to 49,Female,Daniel McIntyre,NE174,Spence,1
+2023163019,2023-12-06T17:59:33Z,2,50 to 54,Male,Daniel McIntyre,NE174,Spence,3
+2023163025,2023-12-06T18:13:13Z,1,25 to 29,Female,Mynarski,NE070,Jefferson,1
+2023163058,2023-12-06T19:40:36Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
+2023163072,2023-12-06T20:18:40Z,1,35 to 39,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,1
+2023163073,2023-12-06T20:24:41Z,1,25 to 29,Male,Mynarski,NE090,Lord Selkirk Park,1
+2023163082,2023-12-06T20:49:12Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2023163089,2023-12-06T21:19:24Z,1,40 to 44,Female,Mynarski,NE180,St. John's,1
+2023163100,2023-12-06T21:42:52Z,1,50 to 54,Male,St. James,NE036,Crestview,1
