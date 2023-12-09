@@ -19995,3 +19995,21 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023163606,2023-12-07T21:42:57Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE154,Roslyn,1
 2023163646,2023-12-07T23:38:09Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
 2023163650,2023-12-07T23:50:08Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,2
+2023163434,2023-12-07T16:00:00Z,1,50 to 54,Female,NA,NA,NA,1
+2023163723,2023-12-08T05:44:45Z,1,60 to 64,Male,Mynarski,NE180,St. John's,1
+2023163733,2023-12-08T06:32:00Z,1,25 to 29,Male,Daniel McIntyre,NE174,Spence,1
+2023163760,2023-12-08T08:09:37Z,1,45 to 49,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2023163783,2023-12-08T09:29:34Z,1,20 to 24,Female,Daniel McIntyre,NE038,Daniel McIntyre,5
+2023163802,2023-12-08T10:00:11Z,1,85 to 89,Female,St. Norbert - Seine River,NE116,Normand Park,3
+2023163845,2023-12-08T11:33:10Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2023163846,2023-12-08T11:49:00Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,1
+2023163848,2023-12-08T11:39:05Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2023163890,2023-12-08T13:02:44Z,1,30 to 34,Male,Mynarski,NE090,Lord Selkirk Park,1
+2023163890,2023-12-08T13:02:20Z,2,35 to 39,Male,Mynarski,NE090,Lord Selkirk Park,1
+2023163915,2023-12-08T14:22:19Z,1,30 to 34,Male,Mynarski,NE162,Seven Oaks,3
+2023163960,2023-12-08T16:22:00Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2023163986,2023-12-08T17:07:00Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE168,South Portage,6
+2023164028,2023-12-08T18:47:00Z,1,Unknown,Male,Daniel McIntyre,NE025,Central Park,4
+2023164082,2023-12-08T21:06:52Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2023164083,2023-12-08T21:08:13Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2023164142,2023-12-08T23:33:59Z,1,20 to 24,Male,Mynarski,NE090,Lord Selkirk Park,1
