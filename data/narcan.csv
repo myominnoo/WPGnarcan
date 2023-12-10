@@ -20013,3 +20013,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023164082,2023-12-08T21:06:52Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,2
 2023164083,2023-12-08T21:08:13Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
 2023164142,2023-12-08T23:33:59Z,1,20 to 24,Male,Mynarski,NE090,Lord Selkirk Park,1
+2023163315,2023-12-07T11:40:51Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,3
+2023164126,2023-12-08T23:06:35Z,1,40 to 44,Female,Old Kildonan,NE192,The Maples,2
+2023164225,2023-12-09T04:36:47Z,1,40 to 44,Female,St. Boniface,NE027,Central St. Boniface,1
+2023164225,2023-12-09T04:36:47Z,2,45 to 49,Male,St. Boniface,NE027,Central St. Boniface,1
+2023164249,2023-12-09T06:38:29Z,1,55 to 59,Male,Daniel McIntyre,NE174,Spence,3
+2023164440,2023-12-09T15:53:41Z,1,NA,Male,Point Douglas,NE166,South Point Douglas,1
+2023164442,2023-12-09T16:06:33Z,1,30 to 34,Male,Point Douglas,NE017,Brooklands,2
+2023164467,2023-12-09T16:53:03Z,1,25 to 29,Male,River Heights - Fort Garry,NE020,Buffalo,2
+2023164503,2023-12-09T18:21:31Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2023164515,2023-12-09T18:38:00Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,2
+2023164537,2023-12-09T19:32:31Z,1,45 to 49,Male,North Kildonan,NE148,Rivergrove,2
+2023164577,2023-12-09T21:14:55Z,1,20 to 24,Male,Point Douglas,NE166,South Point Douglas,2
+2023164619,2023-12-09T23:03:00Z,1,65 to 69,Male,Point Douglas,NE166,South Point Douglas,3
+2023164635,2023-12-09T23:38:23Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,3
+2023164643,2023-12-09T23:56:14Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
