@@ -20028,3 +20028,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023164619,2023-12-09T23:03:00Z,1,65 to 69,Male,Point Douglas,NE166,South Point Douglas,3
 2023164635,2023-12-09T23:38:23Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,3
 2023164643,2023-12-09T23:56:14Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2023164608,2023-12-09T22:22:48Z,1,70 to 74,Female,Transcona,NE023,Canterbury Park,1
+2023164653,2023-12-10T00:49:53Z,1,30 to 34,Female,Point Douglas,NE166,South Point Douglas,2
+2023164653,2023-12-10T00:49:53Z,2,40 to 44,Female,Point Douglas,NE166,South Point Douglas,1
+2023164686,2023-12-10T03:34:37Z,1,25 to 29,Male,Point Douglas,NE166,South Point Douglas,4
+2023164748,2023-12-10T08:26:33Z,1,45 to 49,Male,Mynarski,NE180,St. John's,1
+2023164878,2023-12-10T14:03:55Z,1,15 to 19,Male,Mynarski,NE232,William Whyte,1
+2023164894,2023-12-10T14:37:50Z,1,40 to 44,Male,Point Douglas,NE024,Centennial,3
+2023164922,2023-12-10T15:51:54Z,1,60 to 64,Male,Point Douglas,NE166,South Point Douglas,1
+2023164934,2023-12-10T16:18:30Z,1,25 to 29,Female,Daniel McIntyre,NE234,Wolseley,2
+2023164963,2023-12-10T17:24:07Z,1,30 to 34,Female,Daniel McIntyre,NE182,St. Matthews,1
+2023165062,2023-12-10T22:56:50Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,1
