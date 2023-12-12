@@ -20039,3 +20039,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023164934,2023-12-10T16:18:30Z,1,25 to 29,Female,Daniel McIntyre,NE234,Wolseley,2
 2023164963,2023-12-10T17:24:07Z,1,30 to 34,Female,Daniel McIntyre,NE182,St. Matthews,1
 2023165062,2023-12-10T22:56:50Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,1
+2023165125,2023-12-11T03:36:53Z,1,40 to 44,Male,North Kildonan,NE147,Riverbend,2
+2023165146,2023-12-11T05:06:38Z,1,15 to 19,Male,Charleswood - Tuxedo - Westwood,NE056,Glendale,2
+2023165160,2023-12-11T06:32:11Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,2
+2023165310,2023-12-11T11:57:36Z,1,25 to 29,Male,Mynarski,NE040,Dufferin,1
+2023165365,2023-12-11T13:33:41Z,1,40 to 44,Male,River Heights - Fort Garry,NE009,Beaumont,5
+2023165385,2023-12-11T14:05:25Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,1
+2023165495,2023-12-11T17:15:50Z,1,50 to 54,Male,Point Douglas,NE052,Exchange District,1
+2023165560,2023-12-11T20:02:14Z,1,20 to 24,Female,Point Douglas,NE166,South Point Douglas,2
+2023165625,2023-12-11T22:45:20Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,2
