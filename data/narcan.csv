@@ -20056,3 +20056,17 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023165852,2023-12-12T12:10:43Z,1,55 to 59,Female,Mynarski,NE118,North Point Douglas,2
 2023166018,2023-12-12T18:04:47Z,1,25 to 29,Male,Point Douglas,NE030,China Town,1
 2023166094,2023-12-12T22:02:44Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE154,Roslyn,2
+2023166176,2023-12-13T03:38:27Z,1,NA,Female,Point Douglas,NE030,China Town,1
+2023166328,2023-12-13T10:56:34Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,2
+2023166330,2023-12-13T11:02:55Z,1,15 to 19,Female,St. Vital,NE207,Varennes,1
+2023166347,2023-12-13T11:42:04Z,1,40 to 44,Male,Mynarski,NE180,St. John's,1
+2023166398,2023-12-13T13:14:24Z,1,30 to 34,Male,St. Norbert - Seine River,NE204,University,1
+2023166423,2023-12-13T14:04:19Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2023166436,2023-12-13T14:26:45Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023166540,2023-12-13T17:32:07Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,2
+2023166548,2023-12-13T17:42:35Z,1,25 to 29,Male,Mynarski,NE180,St. John's,2
+2023166564,2023-12-13T18:12:00Z,1,30 to 34,Female,Elmwood - East Kildonan,NE028,Chalmers,1
+2023166567,2023-12-13T18:16:11Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,2
+2023166578,2023-12-13T18:32:07Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,1
+2023166632,2023-12-13T20:38:20Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,3
+2023166656,2023-12-13T21:48:56Z,1,25 to 29,Male,Charleswood - Tuxedo - Westwood,NE080,Kirkfield,2
