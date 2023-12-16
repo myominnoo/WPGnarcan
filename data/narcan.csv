@@ -20015,8 +20015,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023164142,2023-12-08T23:33:59Z,1,20 to 24,Male,Mynarski,NE090,Lord Selkirk Park,1
 2023163315,2023-12-07T11:40:51Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,3
 2023164126,2023-12-08T23:06:35Z,1,40 to 44,Female,Old Kildonan,NE192,The Maples,2
-2023164225,2023-12-09T04:36:47Z,1,40 to 44,Female,St. Boniface,NE027,Central St. Boniface,1
-2023164225,2023-12-09T04:36:47Z,2,45 to 49,Male,St. Boniface,NE027,Central St. Boniface,1
+2023164225,2023-12-09T04:36:47Z,1,45 to 49,Male,St. Boniface,NE027,Central St. Boniface,1
+2023164225,2023-12-09T04:36:47Z,2,40 to 44,Female,St. Boniface,NE027,Central St. Boniface,1
 2023164249,2023-12-09T06:38:29Z,1,55 to 59,Male,Daniel McIntyre,NE174,Spence,3
 2023164440,2023-12-09T15:53:41Z,1,NA,Male,Point Douglas,NE166,South Point Douglas,1
 2023164442,2023-12-09T16:06:33Z,1,30 to 34,Male,Point Douglas,NE017,Brooklands,2
@@ -20084,3 +20084,17 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023167137,2023-12-14T19:56:01Z,1,45 to 49,Male,Mynarski,NE091,Luxton,4
 2023167207,2023-12-14T22:18:57Z,1,25 to 29,Male,Point Douglas,NE052,Exchange District,1
 2023167218,2023-12-14T22:46:07Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2023167271,2023-12-15T02:45:47Z,1,50 to 54,Male,Mynarski,NE180,St. John's,2
+2023167275,2023-12-15T02:58:37Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE047,Ebby-Wentworth,2
+2023167351,2023-12-15T08:32:48Z,1,25 to 29,Male,Mynarski,NE070,Jefferson,3
+2023167392,2023-12-15T09:50:23Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,6
+2023167473,2023-12-15T12:46:01Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
+2023167486,2023-12-15T13:10:29Z,1,75 to 79,Female,St. Boniface,NE027,Central St. Boniface,1
+2023167574,2023-12-15T16:02:55Z,1,50 to 54,Female,Point Douglas,NE166,South Point Douglas,1
+2023167577,2023-12-15T16:16:28Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,3
+2023167615,2023-12-15T17:42:51Z,1,65 to 69,Male,Point Douglas,NE166,South Point Douglas,2
+2023167629,2023-12-15T18:04:53Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
+2023167678,2023-12-15T20:12:10Z,1,50 to 54,Male,St. James,NE012,Booth,3
+2023167729,2023-12-15T22:20:42Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,1
+2023167734,2023-12-15T22:35:08Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,1
+2023167745,2023-12-15T22:54:58Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
