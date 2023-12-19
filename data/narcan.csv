@@ -20114,3 +20114,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023168453,2023-12-17T09:45:48Z,1,30 to 34,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
 2023168495,2023-12-17T11:53:51Z,1,25 to 29,Male,Mynarski,NE118,North Point Douglas,1
 2023168686,2023-12-17T20:17:40Z,1,35 to 39,Female,St. James,NE134,Polo Park,1
+2023168768,2023-12-18T00:16:29Z,1,25 to 29,Female,St. Vital,NE184,St. Vital Centre,1
+2023168864,2023-12-18T07:47:42Z,1,30 to 34,Female,North Kildonan,NE144,River East,2
+2023169190,2023-12-18T21:28:52Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,4
+2023169199,2023-12-18T21:45:01Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,3
+2023169216,2023-12-18T22:24:32Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023169231,2023-12-18T23:27:10Z,1,50 to 54,Male,Daniel McIntyre,NE174,Spence,2
+2023169231,2023-12-18T23:27:10Z,2,25 to 29,Female,Daniel McIntyre,NE174,Spence,1
+2023169231,2023-12-18T23:27:10Z,3,50 to 54,Male,Daniel McIntyre,NE174,Spence,1
+2023169238,2023-12-18T23:52:39Z,1,45 to 49,Female,Waverley West,NE108,Montcalm,1
