@@ -20119,9 +20119,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023169190,2023-12-18T21:28:52Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,4
 2023169199,2023-12-18T21:45:01Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,3
 2023169216,2023-12-18T22:24:32Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
-2023169231,2023-12-18T23:27:10Z,1,50 to 54,Male,Daniel McIntyre,NE174,Spence,2
+2023169231,2023-12-18T23:27:10Z,1,50 to 54,Male,Daniel McIntyre,NE174,Spence,1
 2023169231,2023-12-18T23:27:10Z,2,25 to 29,Female,Daniel McIntyre,NE174,Spence,1
-2023169231,2023-12-18T23:27:10Z,3,50 to 54,Male,Daniel McIntyre,NE174,Spence,1
+2023169231,2023-12-18T23:27:10Z,3,50 to 54,Male,Daniel McIntyre,NE174,Spence,2
 2023169238,2023-12-18T23:52:39Z,1,45 to 49,Female,Waverley West,NE108,Montcalm,1
 2023169240,2023-12-19T00:06:48Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,1
 2023169479,2023-12-19T13:13:52Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,1
@@ -20130,3 +20130,13 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023169623,2023-12-19T18:18:11Z,1,70 to 74,Male,Fort Rouge - East Fort Garry,NE154,Roslyn,4
 2023169669,2023-12-19T21:04:40Z,1,30 to 34,Male,Point Douglas,NE022,Burrows-Keewatin,2
 2023169686,2023-12-19T21:34:18Z,1,20 to 24,Female,Mynarski,NE090,Lord Selkirk Park,2
+2023169723,2023-12-19T22:51:57Z,1,25 to 29,Unknown,Daniel McIntyre,NE033,Colony,1
+2023169809,2023-12-20T06:35:53Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,1
+2023169857,2023-12-20T09:25:27Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2023169866,2023-12-20T09:37:01Z,1,25 to 29,Male,Point Douglas,NE202,Tyndall Park,2
+2023169909,2023-12-20T11:41:16Z,1,50 to 54,Female,Daniel McIntyre,NE025,Central Park,2
+2023169915,2023-12-20T11:50:51Z,1,25 to 29,Male,St. Norbert - Seine River,NE145,River Park South,3
+2023169938,2023-12-20T12:52:50Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,1
+2023169956,2023-12-20T13:17:07Z,1,90 to 94,Female,Waverley West,NE014,Bridgwater Lakes,2
+2023170026,2023-12-20T16:09:02Z,1,20 to 24,Female,Mynarski,NE070,Jefferson,2
+2023170131,2023-12-20T20:10:11Z,1,30 to 34,Male,North Kildonan,NE156,Rossmere-A,2
