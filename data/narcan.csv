@@ -20140,3 +20140,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023169956,2023-12-20T13:17:07Z,1,90 to 94,Female,Waverley West,NE014,Bridgwater Lakes,2
 2023170026,2023-12-20T16:09:02Z,1,20 to 24,Female,Mynarski,NE070,Jefferson,2
 2023170131,2023-12-20T20:10:11Z,1,30 to 34,Male,North Kildonan,NE156,Rossmere-A,2
+2023170230,2023-12-21T01:50:14Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2023170258,2023-12-21T04:48:34Z,1,35 to 39,Female,Mynarski,NE118,North Point Douglas,2
+2023170349,2023-12-21T09:27:00Z,1,35 to 39,Female,Daniel McIntyre,NE038,Daniel McIntyre,3
+2023170397,2023-12-21T11:32:00Z,1,30 to 34,Male,NA,NA,NA,2
+2023170462,2023-12-21T13:33:32Z,1,NA,Unknown,Daniel McIntyre,NE038,Daniel McIntyre,1
+2023170475,2023-12-21T13:46:00Z,1,40 to 44,Male,NA,NA,NA,1
+2023170496,2023-12-21T14:20:35Z,1,35 to 39,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2023170521,2023-12-21T15:00:00Z,1,45 to 49,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2023170548,2023-12-21T15:56:00Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2023170588,2023-12-21T17:10:37Z,1,45 to 49,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2023170618,2023-12-21T18:17:28Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2023170684,2023-12-21T21:26:30Z,1,30 to 34,Male,Point Douglas,NE219,West Alexander,1
