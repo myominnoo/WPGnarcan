@@ -20152,3 +20152,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023170588,2023-12-21T17:10:37Z,1,45 to 49,Female,Daniel McIntyre,NE136,Portage-Ellice,1
 2023170618,2023-12-21T18:17:28Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
 2023170684,2023-12-21T21:26:30Z,1,30 to 34,Male,Point Douglas,NE219,West Alexander,1
+2023168264,2023-12-16T23:12:36Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2023170408,2023-12-21T12:01:00Z,1,30 to 34,Female,NA,NA,NA,2
+2023170836,2023-12-22T08:19:35Z,1,40 to 44,Male,Point Douglas,NE135,Portage & Main,1
+2023170865,2023-12-22T09:43:28Z,1,20 to 24,Male,Mynarski,NE090,Lord Selkirk Park,3
+2023170870,2023-12-22T09:50:58Z,1,40 to 44,Female,Transcona,NE130,Peguis,2
+2023170977,2023-12-22T14:19:05Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2023171030,2023-12-22T16:18:23Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,1
+2023171031,2023-12-22T16:19:57Z,1,40 to 44,Male,Daniel McIntyre,NE234,Wolseley,2
+2023171067,2023-12-22T17:41:12Z,1,40 to 44,Female,St. Norbert - Seine River,NE204,University,1
+2023171080,2023-12-22T18:04:17Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,2
+2023171105,2023-12-22T19:30:04Z,1,40 to 44,Female,St. Boniface,NE027,Central St. Boniface,1
+2023171113,2023-12-22T20:03:38Z,1,30 to 34,Female,Daniel McIntyre,NE025,Central Park,2
+2023171114,2023-12-22T20:05:03Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,1
