@@ -20184,3 +20184,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023171650,2023-12-23T22:29:52Z,1,40 to 44,Male,Mynarski,NE112,Mynarski,1
 2023171654,2023-12-23T22:44:56Z,1,35 to 39,Male,Daniel McIntyre,NE234,Wolseley,2
 2023171659,2023-12-23T23:03:10Z,1,40 to 44,Female,Point Douglas,NE166,South Point Douglas,1
+2023171507,2023-12-23T16:19:06Z,1,25 to 29,Male,Mynarski,NE090,Lord Selkirk Park,2
+2023171702,2023-12-24T01:14:51Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,4
+2023171729,2023-12-24T03:29:58Z,1,40 to 44,Female,Daniel McIntyre,NE025,Central Park,1
+2023171736,2023-12-24T04:34:00Z,1,45 to 49,Female,Waverley West,NE108,Montcalm,3
+2023171791,2023-12-24T09:26:51Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023171826,2023-12-24T11:23:13Z,1,50 to 54,Male,Mynarski,NE180,St. John's,2
+2023171857,2023-12-24T12:42:35Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,4
+2023171870,2023-12-24T13:10:48Z,1,90 to 94,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,4
+2023171934,2023-12-24T15:23:30Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE045,Earl Grey,1
