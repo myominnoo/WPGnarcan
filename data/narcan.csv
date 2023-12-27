@@ -20201,3 +20201,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023172416,2023-12-25T18:00:45Z,1,25 to 29,Male,Mynarski,NE118,North Point Douglas,2
 2023172430,2023-12-25T18:41:23Z,1,30 to 34,Female,Point Douglas,NE163,Shaughnessy Park,1
 2023172499,2023-12-25T21:46:55Z,1,40 to 44,Female,Mynarski,NE232,William Whyte,1
+2023172536,2023-12-26T00:05:59Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2023172736,2023-12-26T12:12:54Z,1,50 to 54,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2023172831,2023-12-26T16:28:44Z,1,20 to 24,Male,Mynarski,NE181,St. John's Park,7
+2023172916,2023-12-26T20:13:04Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,2
+2023172951,2023-12-26T21:52:15Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
