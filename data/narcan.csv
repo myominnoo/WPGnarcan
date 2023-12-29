@@ -20215,3 +20215,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2023173445,2023-12-27T20:28:04Z,1,20 to 24,Male,St. James,NE179,St. James Industrial,1
 2023173504,2023-12-27T23:32:15Z,1,25 to 29,Female,Mynarski,NE090,Lord Selkirk Park,5
 2023173505,2023-12-27T23:30:57Z,1,60 to 64,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2023173419,2023-12-27T19:35:09Z,1,30 to 34,Male,St. James,NE179,St. James Industrial,8
+2023173524,2023-12-28T00:45:02Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2023173548,2023-12-28T02:13:08Z,1,40 to 44,Male,Mynarski,NE118,North Point Douglas,1
+2023173814,2023-12-28T15:57:14Z,1,25 to 29,Unknown,Daniel McIntyre,NE182,St. Matthews,2
+2023173827,2023-12-28T16:30:22Z,1,30 to 34,Female,Elmwood - East Kildonan,NE028,Chalmers,1
+2023173868,2023-12-28T18:11:39Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,1
+2023173917,2023-12-28T20:18:31Z,1,25 to 29,Female,Mynarski,NE090,Lord Selkirk Park,3
+2023173918,2023-12-28T20:21:06Z,1,45 to 49,Male,Daniel McIntyre,NE174,Spence,1
+2023173919,2023-12-28T20:25:06Z,1,20 to 24,Female,Mynarski,NE180,St. John's,1
+2023173928,2023-12-28T20:45:38Z,1,20 to 24,Male,Point Douglas,NE031,Civic Centre,3
+2023173950,2023-12-28T21:49:40Z,1,35 to 39,Male,Mynarski,NE180,St. John's,2
+2023173988,2023-12-28T23:45:38Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
