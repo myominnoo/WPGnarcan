@@ -20295,3 +20295,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024000460,2024-01-01T19:11:48Z,1,60 to 64,Male,Point Douglas,NE166,South Point Douglas,5
 2024000495,2024-01-01T20:39:10Z,1,25 to 29,Female,Daniel McIntyre,NE160,Sargent Park,1
 2024000536,2024-01-01T22:22:00Z,1,25 to 29,Female,Point Douglas,NE024,Centennial,3
+2024000558,2024-01-01T23:16:41Z,1,35 to 39,Female,Elmwood - East Kildonan,NE110,Munroe West,4
+2024000580,2024-01-02T00:34:14Z,1,25 to 29,Male,Elmwood - East Kildonan,NE109,Munroe East,4
+2024000586,2024-01-02T01:03:08Z,1,35 to 39,Male,St. James,NE062,Heritage Park,5
+2024000601,2024-01-02T01:50:46Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,4
+2024000683,2024-01-02T08:12:10Z,1,25 to 29,Male,Transcona,NE139,Regent,5
+2024000694,2024-01-02T08:39:02Z,1,30 to 34,Female,Daniel McIntyre,NE025,Central Park,1
+2024000763,2024-01-02T11:14:17Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,5
+2024000784,2024-01-02T11:40:43Z,1,25 to 29,Female,Mynarski,NE118,North Point Douglas,1
+2024000809,2024-01-02T12:26:15Z,1,35 to 39,Male,Point Douglas,NE052,Exchange District,1
+2024000830,2024-01-02T13:01:38Z,1,25 to 29,Male,Elmwood - East Kildonan,NE206,Valley Gardens,1
+2024001009,2024-01-02T18:57:11Z,1,25 to 29,Male,North Kildonan,NE076,Kildonan Drive,2
+2024001040,2024-01-02T20:37:06Z,1,50 to 54,Male,Mynarski,NE180,St. John's,1
