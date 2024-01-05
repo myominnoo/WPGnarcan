@@ -20319,3 +20319,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024001532,2024-01-03T17:58:21Z,1,30 to 34,Female,St. Vital,NE207,Varennes,1
 2024001627,2024-01-03T21:46:53Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
 2024001631,2024-01-03T22:11:01Z,1,20 to 24,Male,Point Douglas,NE127,Pacific Industrial,1
+2024000353,2024-01-01T15:14:00Z,1,20 to 24,Male,St. James,NE134,Polo Park,1
+2024000432,2024-01-01T18:11:57Z,1,30 to 34,Female,Mynarski,NE180,St. John's,2
+2024001498,2024-01-03T16:47:16Z,1,35 to 39,Male,Charleswood - Tuxedo - Westwood,NE146,River West Park,2
+2024001641,2024-01-03T22:49:54Z,1,30 to 34,Female,St. James,NE134,Polo Park,1
+2024001667,2024-01-04T00:19:05Z,1,35 to 39,Female,Point Douglas,NE017,Brooklands,3
+2024001719,2024-01-04T04:14:32Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024001931,2024-01-04T14:33:37Z,1,25 to 29,Female,Point Douglas,NE052,Exchange District,5
+2024001942,2024-01-04T15:10:12Z,1,30 to 34,Male,St. James,NE134,Polo Park,2
+2024001985,2024-01-04T16:28:47Z,1,20 to 24,Female,Daniel McIntyre,NE174,Spence,1
+2024002002,2024-01-04T17:12:32Z,1,30 to 34,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024002079,2024-01-04T20:34:02Z,1,40 to 44,Female,Mynarski,NE180,St. John's,2
+2024002099,2024-01-04T21:45:00Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,3
