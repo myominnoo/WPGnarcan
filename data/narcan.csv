@@ -20331,3 +20331,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024002002,2024-01-04T17:12:32Z,1,30 to 34,Male,Daniel McIntyre,NE182,St. Matthews,1
 2024002079,2024-01-04T20:34:02Z,1,40 to 44,Female,Mynarski,NE180,St. John's,2
 2024002099,2024-01-04T21:45:00Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,3
+2024001805,2024-01-04T09:38:25Z,1,35 to 39,Male,Mynarski,NE118,North Point Douglas,1
+2024002075,2024-01-04T20:23:20Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024002135,2024-01-05T00:36:38Z,1,15 to 19,Female,Point Douglas,NE022,Burrows-Keewatin,1
+2024002179,2024-01-05T03:34:29Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,1
+2024002196,2024-01-05T05:29:58Z,1,35 to 39,Male,Mynarski,NE040,Dufferin,2
+2024002209,2024-01-05T07:01:04Z,1,NA,Unknown,Daniel McIntyre,NE174,Spence,1
+2024002251,2024-01-05T09:11:24Z,1,35 to 39,Female,St. James,NE019,Buchanan,1
+2024002253,2024-01-05T09:11:55Z,1,NA,Female,Point Douglas,NE024,Centennial,1
+2024002300,2024-01-05T11:15:27Z,1,35 to 39,Female,Daniel McIntyre,NE136,Portage-Ellice,2
+2024002523,2024-01-05T19:13:45Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,3
+2024002560,2024-01-05T20:51:25Z,1,30 to 34,Female,Mynarski,NE090,Lord Selkirk Park,1
+2024002584,2024-01-05T22:03:21Z,1,30 to 34,Male,Elmwood - East Kildonan,NE028,Chalmers,2
