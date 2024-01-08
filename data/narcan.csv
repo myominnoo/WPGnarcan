@@ -20359,3 +20359,13 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024002988,2024-01-06T19:13:32Z,1,25 to 29,Male,Mynarski,NE040,Dufferin,5
 2024003024,2024-01-06T20:56:20Z,1,20 to 24,Female,Point Douglas,NE024,Centennial,2
 2024003069,2024-01-06T22:45:36Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2024003105,2024-01-07T01:05:58Z,1,15 to 19,Male,Transcona,NE138,Radisson,1
+2024003112,2024-01-07T01:35:30Z,1,40 to 44,Female,St. Vital,NE003,Alpine Place,2
+2024003157,2024-01-07T03:43:51Z,1,35 to 39,Male,Point Douglas,NE024,Centennial,1
+2024003233,2024-01-07T09:05:46Z,1,20 to 24,Male,Point Douglas,NE166,South Point Douglas,1
+2024003274,2024-01-07T10:52:22Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,3
+2024003308,2024-01-07T12:03:26Z,1,NA,Unknown,Point Douglas,NE166,South Point Douglas,1
+2024003349,2024-01-07T13:37:40Z,1,30 to 34,Male,Old Kildonan,NE084,Leila North,2
+2024003354,2024-01-07T13:49:46Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2024003378,2024-01-07T14:40:44Z,1,60 to 64,Female,North Kildonan,NE175,Springfield North,1
+2024003402,2024-01-07T16:17:40Z,1,30 to 34,Male,St. Boniface,NE120,North St. Boniface,1
