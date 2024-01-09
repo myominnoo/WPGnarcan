@@ -20369,3 +20369,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024003354,2024-01-07T13:49:46Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
 2024003378,2024-01-07T14:40:44Z,1,60 to 64,Female,North Kildonan,NE175,Springfield North,1
 2024003402,2024-01-07T16:17:40Z,1,30 to 34,Male,St. Boniface,NE120,North St. Boniface,1
+2023003893,2024-01-08T16:40:00Z,1,30 to 34,Male,NA,NA,NA,4
+2024003510,2024-01-07T20:41:33Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024003564,2024-01-08T00:13:10Z,1,35 to 39,Female,Charleswood - Tuxedo - Westwood,NE080,Kirkfield,1
+2024003583,2024-01-08T01:11:00Z,1,40 to 44,Male,Elmwood - East Kildonan,NE109,Munroe East,4
+2024003633,2024-01-08T05:39:04Z,1,35 to 39,Male,Mynarski,NE118,North Point Douglas,2
+2024003649,2024-01-08T06:45:17Z,1,30 to 34,Female,Point Douglas,NE030,China Town,3
+2024003693,2024-01-08T09:16:55Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024003787,2024-01-08T13:02:31Z,1,65 to 69,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,1
+2024003863,2024-01-08T15:35:07Z,1,20 to 24,Female,Daniel McIntyre,NE136,Portage-Ellice,3
+2024003865,2024-01-08T15:43:30Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024003879,2024-01-08T16:18:32Z,1,25 to 29,Male,Daniel McIntyre,NE136,Portage-Ellice,4
+2024003927,2024-01-08T19:25:14Z,1,35 to 39,Male,North Kildonan,NE156,Rossmere-A,1
+2024003989,2024-01-08T21:08:17Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,2
+2024004020,2024-01-08T22:38:41Z,1,35 to 39,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024004026,2024-01-08T23:11:19Z,1,NA,Unknown,Daniel McIntyre,NE174,Spence,1
