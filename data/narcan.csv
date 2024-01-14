@@ -20422,3 +20422,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024006001,2024-01-12T21:46:22Z,1,20 to 24,Male,Mynarski,NE181,St. John's Park,8
 2024006025,2024-01-12T23:14:57Z,1,25 to 29,Male,Daniel McIntyre,NE033,Colony,2
 2024006031,2024-01-12T23:37:25Z,1,65 to 69,Male,St. Boniface,NE120,North St. Boniface,1
+2024006059,2024-01-13T01:15:01Z,1,20 to 24,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024006061,2024-01-13T01:10:57Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
+2024006109,2024-01-13T04:03:48Z,1,35 to 39,Male,Point Douglas,NE024,Centennial,3
+2024006331,2024-01-13T16:52:06Z,1,35 to 39,Male,St. Boniface,NE027,Central St. Boniface,1
+2024006336,2024-01-13T17:07:36Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,2
+2024006394,2024-01-13T20:09:41Z,1,40 to 44,Female,Mynarski,NE040,Dufferin,1
+2024006417,2024-01-13T21:04:35Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,3
