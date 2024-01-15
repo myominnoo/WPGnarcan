@@ -20429,3 +20429,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024006336,2024-01-13T17:07:36Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,2
 2024006394,2024-01-13T20:09:41Z,1,40 to 44,Female,Mynarski,NE040,Dufferin,1
 2024006417,2024-01-13T21:04:35Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,3
+2024006511,2024-01-14T01:28:33Z,1,35 to 39,Male,Point Douglas,NE024,Centennial,3
+2024006661,2024-01-14T10:39:03Z,1,NA,Unknown,Mynarski,NE232,William Whyte,2
+2024006706,2024-01-14T11:59:15Z,1,35 to 39,Female,Point Douglas,NE227,Weston Shops,1
+2024006716,2024-01-14T12:28:48Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,2
+2024006838,2024-01-14T18:59:12Z,1,45 to 49,Male,St. James,NE224,West Wolseley,1
+2024006844,2024-01-14T19:02:57Z,1,40 to 44,Female,North Kildonan,NE147,Riverbend,2
+2024006907,2024-01-14T21:47:22Z,1,15 to 19,Female,St. Vital,NE101,Meadowood,3
+2024006921,2024-01-14T22:42:07Z,1,30 to 34,Female,Mynarski,NE066,Inkster-Faraday,2
