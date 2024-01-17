@@ -20442,3 +20442,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024007294,2024-01-15T16:49:23Z,1,30 to 34,Male,Point Douglas,NE030,China Town,1
 2024007298,2024-01-15T17:18:54Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
 2024007302,2024-01-15T16:49:51Z,1,30 to 34,Male,Point Douglas,NE219,West Alexander,1
+2024007475,2024-01-16T01:47:23Z,1,30 to 34,Female,Elmwood - East Kildonan,NE203,Tyne-Tees,1
+2024007631,2024-01-16T11:43:20Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,1
+2024007724,2024-01-16T15:08:10Z,1,20 to 24,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024007728,2024-01-16T15:13:17Z,1,50 to 54,Female,Daniel McIntyre,NE025,Central Park,1
+2024007749,2024-01-16T16:20:07Z,1,30 to 34,Male,St. Vital,NE184,St. Vital Centre,2
+2024007793,2024-01-16T17:55:08Z,1,30 to 34,Male,Elmwood - East Kildonan,NE203,Tyne-Tees,1
+2024007845,2024-01-16T19:53:45Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,1
