@@ -20449,3 +20449,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024007749,2024-01-16T16:20:07Z,1,30 to 34,Male,St. Vital,NE184,St. Vital Centre,2
 2024007793,2024-01-16T17:55:08Z,1,30 to 34,Male,Elmwood - East Kildonan,NE203,Tyne-Tees,1
 2024007845,2024-01-16T19:53:45Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,1
+2024007998,2024-01-17T05:52:40Z,1,30 to 34,Female,Elmwood - East Kildonan,NE028,Chalmers,2
+2024008037,2024-01-17T08:48:18Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024008052,2024-01-17T09:31:16Z,1,25 to 29,Male,River Heights - Fort Garry,NE119,North River Heights,1
+2024008241,2024-01-17T17:18:00Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2024008280,2024-01-17T18:25:32Z,1,50 to 54,Female,Point Douglas,NE202,Tyndall Park,2
+2024008304,2024-01-17T20:02:40Z,1,25 to 29,Female,Point Douglas,NE135,Portage & Main,2
