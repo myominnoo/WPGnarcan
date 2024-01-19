@@ -20455,3 +20455,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024008241,2024-01-17T17:18:00Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
 2024008280,2024-01-17T18:25:32Z,1,50 to 54,Female,Point Douglas,NE202,Tyndall Park,2
 2024008304,2024-01-17T20:02:40Z,1,25 to 29,Female,Point Douglas,NE135,Portage & Main,2
+2024008324,2024-01-17T21:05:54Z,1,25 to 29,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024008399,2024-01-18T01:07:05Z,1,20 to 24,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
+2024008827,2024-01-18T21:28:14Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
