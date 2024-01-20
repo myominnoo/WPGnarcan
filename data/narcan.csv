@@ -20458,3 +20458,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024008324,2024-01-17T21:05:54Z,1,25 to 29,Female,Daniel McIntyre,NE136,Portage-Ellice,1
 2024008399,2024-01-18T01:07:05Z,1,20 to 24,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
 2024008827,2024-01-18T21:28:14Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
+2024008882,2024-01-19T00:03:55Z,1,40 to 44,Female,Daniel McIntyre,NE174,Spence,1
+2024008976,2024-01-19T07:21:43Z,1,50 to 54,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024009225,2024-01-19T17:07:39Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,4
+2024009247,2024-01-19T17:57:25Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,4
+2024009329,2024-01-19T21:03:36Z,1,35 to 39,Male,Point Douglas,NE052,Exchange District,1
