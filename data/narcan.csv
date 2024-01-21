@@ -20463,3 +20463,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024009225,2024-01-19T17:07:39Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,4
 2024009247,2024-01-19T17:57:25Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,4
 2024009329,2024-01-19T21:03:36Z,1,35 to 39,Male,Point Douglas,NE052,Exchange District,1
+2024009435,2024-01-20T01:49:12Z,1,20 to 24,Female,Mynarski,NE090,Lord Selkirk Park,2
+2024009542,2024-01-20T08:42:00Z,1,25 to 29,Male,Waverley West,NE108,Montcalm,4
+2024009570,2024-01-20T10:14:04Z,1,25 to 29,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024009617,2024-01-20T12:15:45Z,1,25 to 29,Female,Mynarski,NE118,North Point Douglas,1
+2024009666,2024-01-20T14:17:45Z,1,25 to 29,Male,Mynarski,NE118,North Point Douglas,2
+2024009696,2024-01-20T15:33:40Z,1,25 to 29,Male,Daniel McIntyre,NE136,Portage-Ellice,3
+2024009789,2024-01-20T19:33:29Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024009807,2024-01-20T20:13:49Z,1,30 to 34,Male,Point Douglas,NE135,Portage & Main,1
+2024009885,2024-01-20T23:36:17Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,2
