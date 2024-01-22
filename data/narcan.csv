@@ -20472,3 +20472,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024009789,2024-01-20T19:33:29Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,1
 2024009807,2024-01-20T20:13:49Z,1,30 to 34,Male,Point Douglas,NE135,Portage & Main,1
 2024009885,2024-01-20T23:36:17Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,2
+2024010177,2024-01-21T15:10:01Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2024010264,2024-01-21T19:14:55Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
