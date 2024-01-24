@@ -20485,3 +20485,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024010751,2024-01-22T21:50:13Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,3
 2024010772,2024-01-22T22:56:10Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
 2024010774,2024-01-22T23:04:20Z,1,60 to 64,Male,Daniel McIntyre,NE105,Minto,2
+2024009329,2024-01-19T21:03:36Z,2,35 to 39,Male,Point Douglas,NE052,Exchange District,1
+2024009725,2024-01-20T16:35:07Z,1,45 to 49,Male,Mynarski,NE180,St. John's,1
+2024010846,2024-01-23T06:07:18Z,1,35 to 39,Female,Daniel McIntyre,NE174,Spence,4
+2024010917,2024-01-23T10:09:07Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024010966,2024-01-23T12:16:27Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,3
+2024011086,2024-01-23T16:54:39Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024011111,2024-01-23T18:01:54Z,1,45 to 49,Female,Point Douglas,NE166,South Point Douglas,2
+2024011175,2024-01-23T20:07:39Z,1,50 to 54,Female,Point Douglas,NE202,Tyndall Park,1
+2024011176,2024-01-23T20:09:44Z,1,35 to 39,Female,Point Douglas,NE163,Shaughnessy Park,2
