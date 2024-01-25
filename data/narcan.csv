@@ -20494,3 +20494,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024011111,2024-01-23T18:01:54Z,1,45 to 49,Female,Point Douglas,NE166,South Point Douglas,2
 2024011175,2024-01-23T20:07:39Z,1,50 to 54,Female,Point Douglas,NE202,Tyndall Park,1
 2024011176,2024-01-23T20:09:44Z,1,35 to 39,Female,Point Douglas,NE163,Shaughnessy Park,2
+2024011291,2024-01-24T03:58:45Z,1,45 to 49,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024011307,2024-01-24T05:41:28Z,1,25 to 29,Female,Old Kildonan,NE192,The Maples,1
+2024011398,2024-01-24T10:01:02Z,1,20 to 24,Male,Daniel McIntyre,NE174,Spence,1
+2024011411,2024-01-24T10:48:38Z,1,40 to 44,Female,Mynarski,NE232,William Whyte,1
+2024011676,2024-01-24T20:23:25Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
+2024011741,2024-01-24T23:33:52Z,1,25 to 29,Male,Daniel McIntyre,NE174,Spence,1
