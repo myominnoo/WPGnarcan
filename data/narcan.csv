@@ -20523,3 +20523,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024013020,2024-01-27T19:19:17Z,1,35 to 39,Female,Daniel McIntyre,NE038,Daniel McIntyre,5
 2024013065,2024-01-27T20:49:08Z,1,55 to 59,Male,Point Douglas,NE219,West Alexander,1
 2024013074,2024-01-27T21:07:05Z,1,20 to 24,Male,Transcona,NE106,Mission Gardens,1
+2024013150,2024-01-28T01:17:07Z,1,25 to 29,Male,Elmwood - East Kildonan,NE028,Chalmers,1
+2024013411,2024-01-28T15:56:16Z,1,40 to 44,Female,Point Douglas,NE226,Weston,1
+2024013423,2024-01-28T16:24:46Z,1,20 to 24,Male,Elmwood - East Kildonan,NE028,Chalmers,2
+2024013531,2024-01-28T21:34:48Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
