@@ -20527,3 +20527,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024013411,2024-01-28T15:56:16Z,1,40 to 44,Female,Point Douglas,NE226,Weston,1
 2024013423,2024-01-28T16:24:46Z,1,20 to 24,Male,Elmwood - East Kildonan,NE028,Chalmers,2
 2024013531,2024-01-28T21:34:48Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024013723,2024-01-29T10:35:57Z,1,35 to 39,Male,St. James,NE078,King Edward,1
+2024013778,2024-01-29T12:29:55Z,1,50 to 54,Male,Elmwood - East Kildonan,NE028,Chalmers,1
+2024013870,2024-01-29T16:30:00Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
+2024014003,2024-01-29T23:23:55Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE168,South Portage,4
+2024014008,2024-01-29T23:37:15Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,1
