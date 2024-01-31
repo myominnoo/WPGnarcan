@@ -20532,3 +20532,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024013870,2024-01-29T16:30:00Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
 2024014003,2024-01-29T23:23:55Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE168,South Portage,4
 2024014008,2024-01-29T23:37:15Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024014054,2024-01-30T02:47:30Z,1,20 to 24,Female,Point Douglas,NE024,Centennial,1
+2024014070,2024-01-30T03:46:58Z,1,20 to 24,Female,Point Douglas,NE166,South Point Douglas,1
+2024014109,2024-01-30T07:35:52Z,1,35 to 39,Female,Daniel McIntyre,NE174,Spence,2
+2024014167,2024-01-30T10:31:36Z,1,40 to 44,Male,Mynarski,NE181,St. John's Park,2
+2024014276,2024-01-30T15:18:13Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,1
+2024014297,2024-01-30T15:26:51Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,1
+2024014305,2024-01-30T15:50:54Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,1
+2024014371,2024-01-30T18:21:28Z,1,25 to 29,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024014397,2024-01-30T19:30:48Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,1
+2024014402,2024-01-30T19:44:20Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,3
+2024014415,2024-01-30T20:22:52Z,1,35 to 39,Male,Mynarski,NE180,St. John's,2
+2024014454,2024-01-30T22:04:48Z,1,50 to 54,Female,Daniel McIntyre,NE105,Minto,1
