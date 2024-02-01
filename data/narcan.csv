@@ -20544,3 +20544,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024014402,2024-01-30T19:44:20Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,3
 2024014415,2024-01-30T20:22:52Z,1,35 to 39,Male,Mynarski,NE180,St. John's,2
 2024014454,2024-01-30T22:04:48Z,1,50 to 54,Female,Daniel McIntyre,NE105,Minto,1
+2024014502,2024-01-31T00:25:51Z,1,15 to 19,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024014524,2024-01-31T02:08:14Z,1,15 to 19,Male,Waverley West,NE108,Montcalm,1
+2024014539,2024-01-31T03:20:24Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024014550,2024-01-31T04:32:24Z,1,35 to 39,Male,Mynarski,NE180,St. John's,1
+2024014594,2024-01-31T07:46:55Z,1,60 to 64,Female,Point Douglas,NE166,South Point Douglas,1
+2024014616,2024-01-31T08:38:55Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE045,Earl Grey,3
+2024014638,2024-01-31T09:36:04Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2024014676,2024-01-31T11:15:17Z,1,35 to 39,Female,Mynarski,NE066,Inkster-Faraday,3
+2024014911,2024-01-31T19:56:31Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,1
