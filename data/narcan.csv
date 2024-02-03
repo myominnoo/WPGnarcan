@@ -20553,3 +20553,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024014638,2024-01-31T09:36:04Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
 2024014676,2024-01-31T11:15:17Z,1,35 to 39,Female,Mynarski,NE066,Inkster-Faraday,3
 2024014911,2024-01-31T19:56:31Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,1
+2024014855,2024-01-31T17:32:10Z,1,35 to 39,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024015056,2024-02-01T07:04:47Z,1,45 to 49,Female,Mynarski,NE232,William Whyte,1
+2024015194,2024-02-01T13:17:29Z,1,15 to 19,Female,Daniel McIntyre,NE234,Wolseley,1
+2024015297,2024-02-01T17:10:46Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024015328,2024-02-01T18:15:35Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024015329,2024-02-01T18:17:24Z,1,25 to 29,Male,St. James,NE012,Booth,1
+2024015333,2024-02-01T18:27:10Z,1,40 to 44,Male,Mynarski,NE040,Dufferin,1
+2024015430,2024-02-01T22:16:48Z,1,55 to 59,Male,St. James,NE078,King Edward,1
+2024015506,2024-02-02T03:23:42Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,2
+2024015544,2024-02-02T06:36:58Z,1,20 to 24,Male,Elmwood - East Kildonan,NE028,Chalmers,5
+2024015754,2024-02-02T16:51:33Z,1,30 to 34,Male,Point Douglas,NE031,Civic Centre,3
+2024015858,2024-02-02T20:28:37Z,1,35 to 39,Female,Daniel McIntyre,NE182,St. Matthews,4
+2024015907,2024-02-02T22:15:48Z,1,35 to 39,Female,Old Kildonan,NE085,Leila-McPhillips Triangle,3
+2024015914,2024-02-02T22:40:27Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024015923,2024-02-02T23:30:22Z,1,30 to 34,Male,Old Kildonan,NE055,Garden City,2
