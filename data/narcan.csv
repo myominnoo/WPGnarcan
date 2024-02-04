@@ -20568,3 +20568,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024015907,2024-02-02T22:15:48Z,1,35 to 39,Female,Old Kildonan,NE085,Leila-McPhillips Triangle,3
 2024015914,2024-02-02T22:40:27Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
 2024015923,2024-02-02T23:30:22Z,1,30 to 34,Male,Old Kildonan,NE055,Garden City,2
+2024015942,2024-02-03T00:39:14Z,1,50 to 54,Male,Mynarski,NE090,Lord Selkirk Park,1
+2024015979,2024-02-03T03:25:02Z,1,50 to 54,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024016074,2024-02-03T10:46:30Z,1,25 to 29,Male,St. Boniface,NE172,Southdale,2
+2024016222,2024-02-03T17:02:06Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,4
+2024016254,2024-02-03T18:28:51Z,1,25 to 29,Male,Point Douglas,NE030,China Town,5
+2024016283,2024-02-03T19:48:10Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,5
+2024016330,2024-02-03T22:20:54Z,1,60 to 64,Female,St. Boniface,NE233,Windsor Park,1
