@@ -20575,3 +20575,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024016254,2024-02-03T18:28:51Z,1,25 to 29,Male,Point Douglas,NE030,China Town,5
 2024016283,2024-02-03T19:48:10Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,5
 2024016330,2024-02-03T22:20:54Z,1,60 to 64,Female,St. Boniface,NE233,Windsor Park,1
+2024016523,2024-02-04T11:03:41Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024016611,2024-02-04T14:53:12Z,1,40 to 44,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024016655,2024-02-04T17:05:02Z,1,40 to 44,Male,Point Douglas,NE219,West Alexander,1
+2024016696,2024-02-04T19:09:20Z,1,35 to 39,Male,North Kildonan,NE156,Rossmere-A,2
