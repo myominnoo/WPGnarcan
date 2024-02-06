@@ -20579,3 +20579,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024016611,2024-02-04T14:53:12Z,1,40 to 44,Female,Daniel McIntyre,NE182,St. Matthews,1
 2024016655,2024-02-04T17:05:02Z,1,40 to 44,Male,Point Douglas,NE219,West Alexander,1
 2024016696,2024-02-04T19:09:20Z,1,35 to 39,Male,North Kildonan,NE156,Rossmere-A,2
+2024016827,2024-02-05T02:49:17Z,1,20 to 24,Female,Daniel McIntyre,NE025,Central Park,3
+2024017176,2024-02-05T19:30:35Z,1,30 to 34,Male,Mynarski,NE066,Inkster-Faraday,1
+2024017247,2024-02-05T22:59:18Z,1,25 to 29,Male,Daniel McIntyre,NE033,Colony,1
