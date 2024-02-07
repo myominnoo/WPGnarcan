@@ -20582,3 +20582,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024016827,2024-02-05T02:49:17Z,1,20 to 24,Female,Daniel McIntyre,NE025,Central Park,3
 2024017176,2024-02-05T19:30:35Z,1,30 to 34,Male,Mynarski,NE066,Inkster-Faraday,1
 2024017247,2024-02-05T22:59:18Z,1,25 to 29,Male,Daniel McIntyre,NE033,Colony,1
+2024017285,2024-02-06T02:29:24Z,1,55 to 59,Male,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2024017384,2024-02-06T09:32:16Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,4
+2024017646,2024-02-06T19:44:41Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024017685,2024-02-06T21:09:51Z,1,35 to 39,Male,Point Douglas,NE166,South Point Douglas,1
