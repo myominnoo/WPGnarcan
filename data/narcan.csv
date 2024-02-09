@@ -20592,3 +20592,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024017906,2024-02-07T11:22:09Z,1,50 to 54,Male,Point Douglas,NE052,Exchange District,2
 2024017959,2024-02-07T13:50:18Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,2
 2024018107,2024-02-07T20:48:28Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2024017825,2024-02-07T08:05:09Z,1,15 to 19,Female,Mynarski,NE070,Jefferson,1
+2024018339,2024-02-08T12:44:57Z,1,40 to 44,Male,Transcona,NE197,Transcona Yards,2
+2024018479,2024-02-08T18:09:18Z,1,55 to 59,Male,Daniel McIntyre,NE174,Spence,1
+2024018481,2024-02-08T18:18:03Z,1,25 to 29,Male,Old Kildonan,NE190,Templeton-Sinclair,1
+2024018481,2024-02-08T18:18:03Z,2,20 to 24,Male,Old Kildonan,NE190,Templeton-Sinclair,1
