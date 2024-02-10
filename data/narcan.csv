@@ -20597,3 +20597,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024018479,2024-02-08T18:09:18Z,1,55 to 59,Male,Daniel McIntyre,NE174,Spence,1
 2024018481,2024-02-08T18:18:03Z,1,25 to 29,Male,Old Kildonan,NE190,Templeton-Sinclair,1
 2024018481,2024-02-08T18:18:03Z,2,20 to 24,Male,Old Kildonan,NE190,Templeton-Sinclair,1
+2024018758,2024-02-09T11:19:07Z,1,35 to 39,Female,Point Douglas,NE219,West Alexander,1
+2024018833,2024-02-09T14:39:33Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024019008,2024-02-09T23:30:51Z,1,15 to 19,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
