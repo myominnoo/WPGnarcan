@@ -20606,3 +20606,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024019322,2024-02-10T18:30:15Z,1,30 to 34,Male,Charleswood - Tuxedo - Westwood,NE200,Tuxedo,1
 2024019342,2024-02-10T19:22:34Z,1,35 to 39,Male,Daniel McIntyre,NE234,Wolseley,1
 2024019750,2024-02-11T19:25:41Z,1,45 to 49,Male,Charleswood - Tuxedo - Westwood,NE170,South Tuxedo,1
+2024019740,2024-02-11T18:51:26Z,1,25 to 29,Male,Elmwood - East Kildonan,NE109,Munroe East,1
+2024019848,2024-02-12T00:21:44Z,1,60 to 64,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024019851,2024-02-12T00:23:44Z,1,35 to 39,Male,St. Vital,NE049,Elm Park,1
+2024019881,2024-02-12T02:27:29Z,1,25 to 29,Male,Mynarski,NE118,North Point Douglas,1
+2024019883,2024-02-12T02:49:11Z,1,40 to 44,Female,Old Kildonan,NE055,Garden City,1
+2024019906,2024-02-12T05:04:11Z,1,40 to 44,Male,Point Douglas,NE219,West Alexander,1
+2024019938,2024-02-12T07:39:32Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024020000,2024-02-12T10:22:44Z,1,75 to 79,Male,Transcona,NE060,Grassie,1
+2024020099,2024-02-12T13:57:04Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,1
+2024020229,2024-02-12T19:28:08Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
+2024020278,2024-02-12T21:24:46Z,1,15 to 19,Female,St. Vital,NE104,Minnetonka,1
+2024020285,2024-02-12T21:38:00Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,5
