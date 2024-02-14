@@ -20618,3 +20618,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024020229,2024-02-12T19:28:08Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
 2024020278,2024-02-12T21:24:46Z,1,15 to 19,Female,St. Vital,NE104,Minnetonka,1
 2024020285,2024-02-12T21:38:00Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,5
+2024020271,2024-02-12T21:07:45Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024020625,2024-02-13T18:09:52Z,1,30 to 34,Male,Daniel McIntyre,NE182,St. Matthews,1
