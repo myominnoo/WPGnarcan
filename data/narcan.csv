@@ -20625,3 +20625,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024020914,2024-02-14T12:22:34Z,1,80 to 84,Female,St. Norbert - Seine River,NE054,Fort Richmond,2
 2024020991,2024-02-14T15:46:44Z,1,35 to 39,Male,Point Douglas,NE052,Exchange District,2
 2024021124,2024-02-14T21:44:21Z,1,45 to 49,Female,St. James,NE134,Polo Park,1
+2024021174,2024-02-15T01:14:34Z,1,10 to 14,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024021281,2024-02-15T10:00:20Z,1,50 to 54,Female,North Kildonan,NE148,Rivergrove,1
+2024021448,2024-02-15T17:21:13Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024021532,2024-02-15T20:02:57Z,1,75 to 79,Female,North Kildonan,NE076,Kildonan Drive,1
+2024021541,2024-02-15T20:09:30Z,1,35 to 39,Male,St. Vital,NE184,St. Vital Centre,3
+2024021544,2024-02-15T20:12:50Z,1,55 to 59,Male,Point Douglas,NE202,Tyndall Park,4
+2024021554,2024-02-15T20:37:29Z,1,35 to 39,Male,Mynarski,NE090,Lord Selkirk Park,3
