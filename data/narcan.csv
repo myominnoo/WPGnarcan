@@ -20659,3 +20659,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024024060,2024-02-21T17:04:28Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,2
 2024024095,2024-02-21T18:46:55Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,1
 2024024150,2024-02-21T22:00:00Z,1,25 to 29,Female,Point Douglas,NE166,South Point Douglas,2
+2024024228,2024-02-22T03:48:04Z,1,30 to 34,Female,Point Douglas,NE017,Brooklands,2
+2024024285,2024-02-22T08:22:33Z,1,40 to 44,Female,Point Douglas,NE166,South Point Douglas,1
+2024024328,2024-02-22T10:11:29Z,1,30 to 34,Female,Mynarski,NE162,Seven Oaks,2
+2024024371,2024-02-22T12:12:51Z,1,25 to 29,Female,Old Kildonan,NE085,Leila-McPhillips Triangle,1
