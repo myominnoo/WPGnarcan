@@ -20674,3 +20674,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024024847,2024-02-23T15:12:56Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,1
 2024024926,2024-02-23T18:26:16Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE154,Roslyn,2
 2024024986,2024-02-23T22:11:08Z,1,25 to 29,Female,St. James,NE012,Booth,1
+2024025013,2024-02-24T00:13:54Z,1,45 to 49,Female,St. Vital,NE104,Minnetonka,1
+2024025143,2024-02-24T11:16:46Z,1,20 to 24,Male,Point Douglas,NE024,Centennial,1
+2024025292,2024-02-24T18:58:17Z,1,60 to 64,Female,Point Douglas,NE163,Shaughnessy Park,2
+2024025304,2024-02-24T19:36:52Z,1,20 to 24,Male,Mynarski,NE181,St. John's Park,3
+2024025318,2024-02-24T20:10:44Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024025339,2024-02-24T21:04:29Z,1,25 to 29,Male,River Heights - Fort Garry,NE059,Grant Park,1
+2024025368,2024-02-24T22:30:45Z,1,25 to 29,Male,Daniel McIntyre,NE174,Spence,5
