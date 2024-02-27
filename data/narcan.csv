@@ -20686,3 +20686,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024025472,2024-02-25T05:13:14Z,1,30 to 34,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
 2024025629,2024-02-25T13:43:20Z,1,30 to 34,Female,St. Boniface,NE027,Central St. Boniface,1
 2024025742,2024-02-25T18:38:45Z,1,45 to 49,Female,St. Vital,NE104,Minnetonka,2
+2024025894,2024-02-26T02:44:20Z,1,40 to 44,Female,Daniel McIntyre,NE174,Spence,1
+2024025978,2024-02-26T09:06:19Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
+2024026063,2024-02-26T12:16:51Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024026097,2024-02-26T13:22:32Z,1,35 to 39,Female,Point Douglas,NE127,Pacific Industrial,1
