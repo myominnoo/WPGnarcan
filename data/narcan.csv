@@ -20690,3 +20690,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024025978,2024-02-26T09:06:19Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
 2024026063,2024-02-26T12:16:51Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024026097,2024-02-26T13:22:32Z,1,35 to 39,Female,Point Douglas,NE127,Pacific Industrial,1
+2024026555,2024-02-27T13:35:40Z,1,35 to 39,Female,Mynarski,NE232,William Whyte,1
+2024026728,2024-02-27T19:06:20Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,2
