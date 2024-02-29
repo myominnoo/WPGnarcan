@@ -20692,3 +20692,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024026097,2024-02-26T13:22:32Z,1,35 to 39,Female,Point Douglas,NE127,Pacific Industrial,1
 2024026555,2024-02-27T13:35:40Z,1,35 to 39,Female,Mynarski,NE232,William Whyte,1
 2024026728,2024-02-27T19:06:20Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,2
+2024026746,2024-02-27T19:59:46Z,1,30 to 34,Female,Daniel McIntyre,NE025,Central Park,2
+2024027032,2024-02-28T11:27:00Z,1,15 to 19,Male,Mynarski,NE040,Dufferin,3
+2024027039,2024-02-28T11:51:50Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024027039,2024-02-28T11:51:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,2
+2024027274,2024-02-28T21:10:45Z,1,25 to 29,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024027292,2024-02-28T22:04:14Z,1,10 to 14,Female,Mynarski,NE232,William Whyte,2
