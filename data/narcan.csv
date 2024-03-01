@@ -20698,3 +20698,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024027039,2024-02-28T11:51:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,2
 2024027274,2024-02-28T21:10:45Z,1,25 to 29,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024027292,2024-02-28T22:04:14Z,1,10 to 14,Female,Mynarski,NE232,William Whyte,2
+2024027334,2024-02-29T00:32:46Z,1,25 to 29,Male,Elmwood - East Kildonan,NE109,Munroe East,3
+2024027496,2024-02-29T10:11:44Z,1,30 to 34,Male,Transcona,NE188,Symington Yards,2
+2024027555,2024-02-29T12:38:54Z,1,25 to 29,Male,St. James,NE134,Polo Park,3
+2024027671,2024-02-29T16:36:12Z,1,30 to 34,Male,St. James,NE179,St. James Industrial,1
