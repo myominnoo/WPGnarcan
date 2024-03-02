@@ -20702,3 +20702,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024027496,2024-02-29T10:11:44Z,1,30 to 34,Male,Transcona,NE188,Symington Yards,2
 2024027555,2024-02-29T12:38:54Z,1,25 to 29,Male,St. James,NE134,Polo Park,3
 2024027671,2024-02-29T16:36:12Z,1,30 to 34,Male,St. James,NE179,St. James Industrial,1
+2024027856,2024-03-01T02:42:18Z,1,25 to 29,Male,Elmwood - East Kildonan,NE109,Munroe East,1
+2024028189,2024-03-01T18:53:52Z,1,NA,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024028218,2024-03-01T20:16:29Z,1,20 to 24,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
+2024028254,2024-03-01T22:21:41Z,1,20 to 24,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024028259,2024-03-01T22:31:00Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,1
