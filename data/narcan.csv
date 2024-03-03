@@ -20707,3 +20707,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024028218,2024-03-01T20:16:29Z,1,20 to 24,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
 2024028254,2024-03-01T22:21:41Z,1,20 to 24,Female,Point Douglas,NE088,Logan-C.P.R.,1
 2024028259,2024-03-01T22:31:00Z,1,20 to 24,Female,Mynarski,NE232,William Whyte,1
+2024028293,2024-03-02T01:12:10Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,2
+2024028427,2024-03-02T10:02:38Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024028430,2024-03-02T10:12:00Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024028607,2024-03-02T18:37:34Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024028641,2024-03-02T20:11:44Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024028643,2024-03-02T20:21:27Z,1,30 to 34,Male,River Heights - Fort Garry,NE009,Beaumont,4
