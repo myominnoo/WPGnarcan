@@ -20720,3 +20720,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024029147,2024-03-03T20:31:44Z,1,30 to 34,Female,Mynarski,NE118,North Point Douglas,1
 2024029184,2024-03-03T22:02:05Z,1,40 to 44,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,1
 2024029222,2024-03-03T23:38:33Z,1,30 to 34,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024029232,2024-03-04T00:31:20Z,1,30 to 34,Female,Mynarski,NE180,St. John's,2
+2024029398,2024-03-04T11:18:12Z,1,25 to 29,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,3
+2024029512,2024-03-04T15:24:22Z,1,25 to 29,Female,Mynarski,NE118,North Point Douglas,6
+2024029606,2024-03-04T19:03:16Z,1,30 to 34,Male,Point Douglas,NE135,Portage & Main,1
+2024029661,2024-03-04T21:12:53Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024029709,2024-03-04T23:39:36Z,1,25 to 29,Female,Daniel McIntyre,NE136,Portage-Ellice,1
