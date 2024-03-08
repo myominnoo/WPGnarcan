@@ -20730,3 +20730,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024030138,2024-03-05T23:57:19Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
 2024030191,2024-03-06T04:23:40Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
 2024030445,2024-03-06T16:28:06Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024030335,2024-03-06T12:55:30Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,1
+2024030393,2024-03-06T14:47:51Z,1,40 to 44,Female,St. Vital,NE101,Meadowood,1
+2024030535,2024-03-06T21:13:08Z,1,40 to 44,Female,Mynarski,NE151,Robertson,1
+2024030629,2024-03-07T04:28:54Z,1,15 to 19,Female,Point Douglas,NE022,Burrows-Keewatin,2
+2024030687,2024-03-07T08:40:17Z,1,30 to 34,Male,Transcona,NE139,Regent,1
+2024031008,2024-03-07T21:28:43Z,1,55 to 59,Male,Elmwood - East Kildonan,NE028,Chalmers,6
+2024031041,2024-03-07T22:43:07Z,1,35 to 39,Male,Transcona,NE072,Kern Park,2
