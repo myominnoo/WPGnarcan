@@ -20741,3 +20741,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024031143,2024-03-08T08:49:00Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE150,Riverview,1
 2024031274,2024-03-08T14:38:04Z,1,25 to 29,Female,Daniel McIntyre,NE182,St. Matthews,3
 2024031375,2024-03-08T18:43:06Z,1,25 to 29,Female,Mynarski,NE070,Jefferson,1
+2024031515,2024-03-09T02:41:20Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024031586,2024-03-09T08:47:31Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024031791,2024-03-09T19:02:18Z,1,25 to 29,Female,Mynarski,NE066,Inkster-Faraday,2
+2024031794,2024-03-09T19:17:16Z,1,30 to 34,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024031845,2024-03-09T21:45:29Z,1,30 to 34,Male,St. James,NE036,Crestview,4
