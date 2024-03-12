@@ -20751,3 +20751,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024031929,2024-03-10T01:59:55Z,1,25 to 29,Female,Mynarski,NE090,Lord Selkirk Park,2
 2024031996,2024-03-10T08:22:29Z,1,30 to 34,Female,Daniel McIntyre,NE025,Central Park,1
 2024032148,2024-03-10T16:24:35Z,1,60 to 64,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024032470,2024-03-11T11:12:27Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024032557,2024-03-11T14:47:04Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024032775,2024-03-11T23:35:22Z,1,20 to 24,Male,Daniel McIntyre,NE174,Spence,1
