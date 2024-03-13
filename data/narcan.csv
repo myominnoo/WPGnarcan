@@ -20754,3 +20754,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024032470,2024-03-11T11:12:27Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
 2024032557,2024-03-11T14:47:04Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE100,McMillan,1
 2024032775,2024-03-11T23:35:22Z,1,20 to 24,Male,Daniel McIntyre,NE174,Spence,1
+2024032993,2024-03-12T12:00:17Z,1,85 to 89,Male,Transcona,NE074,Kildare-Redonda,2
+2024033242,2024-03-12T22:52:11Z,1,30 to 34,Female,St. James,NE012,Booth,1
