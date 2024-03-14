@@ -20756,3 +20756,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024032775,2024-03-11T23:35:22Z,1,20 to 24,Male,Daniel McIntyre,NE174,Spence,1
 2024032993,2024-03-12T12:00:17Z,1,85 to 89,Male,Transcona,NE074,Kildare-Redonda,2
 2024033242,2024-03-12T22:52:11Z,1,30 to 34,Female,St. James,NE012,Booth,1
+2024033299,2024-03-13T03:02:25Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,5
+2024033325,2024-03-13T04:45:26Z,1,45 to 49,Male,Mynarski,NE180,St. John's,1
+2024033404,2024-03-13T10:22:28Z,1,30 to 34,Female,Point Douglas,NE030,China Town,3
