@@ -20774,3 +20774,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024034881,2024-03-16T15:31:47Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,2
 2024034951,2024-03-16T18:28:13Z,1,45 to 49,Female,St. Boniface,NE067,Island Lakes,2
 2024035010,2024-03-16T21:39:00Z,1,25 to 29,Female,North Kildonan,NE076,Kildonan Drive,3
+2024035186,2024-03-17T08:57:16Z,1,35 to 39,Male,Mynarski,NE040,Dufferin,2
+2024035211,2024-03-17T09:49:21Z,1,55 to 59,Male,Point Douglas,NE166,South Point Douglas,2
+2024035338,2024-03-17T15:31:44Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024035366,2024-03-17T17:23:00Z,1,45 to 49,Female,Mynarski,NE180,St. John's,1
+2024035468,2024-03-17T23:25:50Z,1,25 to 29,Male,Mynarski,NE040,Dufferin,1
+2024035469,2024-03-17T23:30:27Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,3
