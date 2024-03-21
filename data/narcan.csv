@@ -20795,3 +20795,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024036218,2024-03-19T15:40:10Z,1,30 to 34,Unknown,Point Douglas,NE219,West Alexander,3
 2024036274,2024-03-19T18:20:24Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,1
 2024036274,2024-03-19T18:20:24Z,2,40 to 44,Male,Point Douglas,NE024,Centennial,1
+2024036288,2024-03-19T19:35:56Z,1,50 to 54,Male,Mynarski,NE180,St. John's,2
+2024036539,2024-03-20T11:07:06Z,1,35 to 39,Female,Mynarski,NE232,William Whyte,3
+2024036632,2024-03-20T14:48:53Z,1,35 to 39,Male,Elmwood - East Kildonan,NE110,Munroe West,1
+2024036659,2024-03-20T15:59:04Z,1,35 to 39,Female,St. James,NE179,St. James Industrial,1
+2024036748,2024-03-20T19:22:23Z,1,60 to 64,Female,St. James,NE062,Heritage Park,2
+2024036796,2024-03-20T21:46:48Z,1,30 to 34,Female,Mynarski,NE180,St. John's,5
+2024036806,2024-03-20T21:53:52Z,1,25 to 29,Male,North Kildonan,NE147,Riverbend,1
