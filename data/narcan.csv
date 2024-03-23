@@ -20811,3 +20811,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024037163,2024-03-21T16:12:49Z,1,35 to 39,Male,St. James,NE134,Polo Park,5
 2024037232,2024-03-21T18:35:15Z,1,30 to 34,Male,Daniel McIntyre,NE182,St. Matthews,1
 2024037245,2024-03-21T19:11:39Z,1,25 to 29,Female,St. James,NE134,Polo Park,1
+2024037422,2024-03-22T06:22:01Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024037424,2024-03-22T06:33:30Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,2
+2024037442,2024-03-22T07:32:56Z,1,20 to 24,Female,St. James,NE179,St. James Industrial,5
+2024037480,2024-03-22T09:42:24Z,1,30 to 34,Female,Daniel McIntyre,NE038,Daniel McIntyre,3
+2024037595,2024-03-22T15:59:03Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,1
+2024037599,2024-03-22T16:01:53Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024037716,2024-03-22T21:21:13Z,1,50 to 54,Male,Mynarski,NE180,St. John's,1
+2024037757,2024-03-22T23:50:16Z,1,40 to 44,Female,Point Douglas,NE166,South Point Douglas,1
