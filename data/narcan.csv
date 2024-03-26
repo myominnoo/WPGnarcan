@@ -20826,3 +20826,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024038105,2024-03-23T18:38:55Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,1
 2024038137,2024-03-23T19:53:04Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,1
 2024038224,2024-03-23T23:16:34Z,1,55 to 59,Male,Point Douglas,NE166,South Point Douglas,1
+2024038271,2024-03-24T02:12:06Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,2
+2024038319,2024-03-24T06:13:45Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
+2024038325,2024-03-24T06:29:54Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,2
+2024038360,2024-03-24T08:54:35Z,1,45 to 49,Male,Mynarski,NE118,North Point Douglas,2
+2024038365,2024-03-24T09:10:42Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,3
+2024038472,2024-03-24T13:09:28Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024038487,2024-03-24T13:52:02Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,2
+2024038649,2024-03-24T20:53:16Z,1,30 to 34,Male,Point Douglas,NE226,Weston,2
+2024038666,2024-03-24T21:41:41Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
+2024038821,2024-03-25T09:32:39Z,1,30 to 34,Female,Daniel McIntyre,NE174,Spence,4
+2024038895,2024-03-25T12:12:06Z,1,60 to 64,Male,Mynarski,NE040,Dufferin,1
+2024038897,2024-03-25T12:17:33Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,1
+2024038913,2024-03-25T12:40:36Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,2
+2024038947,2024-03-25T13:53:42Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024039098,2024-03-25T20:17:49Z,1,30 to 34,Unknown,Point Douglas,NE088,Logan-C.P.R.,1
