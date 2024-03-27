@@ -20841,3 +20841,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024038913,2024-03-25T12:40:36Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,2
 2024038947,2024-03-25T13:53:42Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
 2024039098,2024-03-25T20:17:49Z,1,30 to 34,Unknown,Point Douglas,NE088,Logan-C.P.R.,1
+2024039194,2024-03-26T01:40:06Z,1,10 to 14,Male,Mynarski,NE232,William Whyte,1
+2024039239,2024-03-26T07:06:35Z,1,20 to 24,Male,Point Douglas,NE219,West Alexander,4
+2024039264,2024-03-26T09:01:47Z,1,55 to 59,Male,St. Boniface,NE027,Central St. Boniface,1
+2024039340,2024-03-26T12:12:02Z,1,35 to 39,Female,Mynarski,NE180,St. John's,1
+2024039427,2024-03-26T15:19:40Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,4
+2024039432,2024-03-26T15:27:16Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,3
+2024039454,2024-03-26T16:05:04Z,1,35 to 39,Female,Daniel McIntyre,NE182,St. Matthews,1
