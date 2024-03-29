@@ -20848,3 +20848,20 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024039427,2024-03-26T15:19:40Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,4
 2024039432,2024-03-26T15:27:16Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,3
 2024039454,2024-03-26T16:05:04Z,1,35 to 39,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024039783,2024-03-27T11:43:11Z,1,25 to 29,Female,Point Douglas,NE031,Civic Centre,1
+2024039825,2024-03-27T13:15:28Z,1,35 to 39,Male,Elmwood - East Kildonan,NE028,Chalmers,4
+2024039873,2024-03-27T14:32:01Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024039876,2024-03-27T14:35:34Z,1,35 to 39,Male,St. Boniface,NE042,Dufresne,4
+2024039883,2024-03-27T14:49:34Z,1,30 to 34,Male,St. Boniface,NE092,Maginot,1
+2024039998,2024-03-27T19:15:19Z,1,35 to 39,Female,St. Boniface,NE027,Central St. Boniface,1
+2024040028,2024-03-27T20:37:29Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,2
+2024040067,2024-03-27T22:29:50Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,1
+2024040086,2024-03-27T23:05:11Z,1,20 to 24,Female,Daniel McIntyre,NE174,Spence,1
+2024040088,2024-03-27T23:21:00Z,1,40 to 44,Female,Point Douglas,NE219,West Alexander,3
+2024040184,2024-03-28T07:33:40Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,3
+2024040221,2024-03-28T10:00:56Z,1,30 to 34,Male,Point Douglas,NE031,Civic Centre,1
+2024040228,2024-03-28T10:15:14Z,1,30 to 34,Female,Daniel McIntyre,NE174,Spence,1
+2024040383,2024-03-28T15:51:31Z,1,45 to 49,Female,St. Vital,NE236,Worthington,1
+2024040426,2024-03-28T17:09:40Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024040434,2024-03-28T17:19:35Z,1,50 to 54,Male,Point Douglas,NE052,Exchange District,1
+2024040500,2024-03-28T19:20:27Z,1,15 to 19,Female,St. Boniface,NE067,Island Lakes,1
