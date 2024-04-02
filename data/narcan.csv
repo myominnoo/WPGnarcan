@@ -20891,3 +20891,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024041816,2024-03-31T15:46:45Z,1,35 to 39,Male,Daniel McIntyre,NE174,Spence,1
 2024041855,2024-03-31T17:25:20Z,1,30 to 34,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024041867,2024-03-31T17:48:52Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE154,Roslyn,1
+2024041983,2024-04-01T00:37:00Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
+2024041991,2024-04-01T00:58:36Z,1,40 to 44,Unknown,Fort Rouge - East Fort Garry,NE045,Earl Grey,1
+2024042024,2024-04-01T03:28:53Z,1,55 to 59,Male,Point Douglas,NE166,South Point Douglas,1
+2024042026,2024-04-01T03:31:14Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,1
+2024042216,2024-04-01T14:32:30Z,1,30 to 34,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024042230,2024-04-01T15:26:43Z,1,45 to 49,Male,Point Douglas,NE022,Burrows-Keewatin,2
+2024042258,2024-04-01T16:02:08Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,2
+2024042273,2024-04-01T16:30:43Z,1,30 to 34,Male,North Kildonan,NE076,Kildonan Drive,1
+2024042319,2024-04-01T18:16:34Z,1,25 to 29,Male,St. James,NE224,West Wolseley,1
+2024042327,2024-04-01T18:30:25Z,1,30 to 34,Male,Elmwood - East Kildonan,NE046,East Elmwood,1
+2024042349,2024-04-01T20:12:52Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,3
+2024042382,2024-04-01T20:39:55Z,1,25 to 29,Female,Daniel McIntyre,NE182,St. Matthews,10
+2024042392,2024-04-01T21:06:12Z,1,45 to 49,Female,North Kildonan,NE175,Springfield North,1
