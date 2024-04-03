@@ -20904,3 +20904,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024042349,2024-04-01T20:12:52Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,3
 2024042382,2024-04-01T20:39:55Z,1,25 to 29,Female,Daniel McIntyre,NE182,St. Matthews,10
 2024042392,2024-04-01T21:06:12Z,1,45 to 49,Female,North Kildonan,NE175,Springfield North,1
+2024040630,2024-03-29T00:45:23Z,2,NA,Female,Point Douglas,NE219,West Alexander,1
+2024040762,2024-03-29T09:34:36Z,1,30 to 34,Female,Point Douglas,NE024,Centennial,2
+2024042611,2024-04-02T11:21:51Z,1,55 to 59,Female,Point Douglas,NE024,Centennial,1
+2024042830,2024-04-02T19:09:31Z,1,45 to 49,Male,Daniel McIntyre,NE174,Spence,2
+2024042869,2024-04-02T21:32:10Z,1,55 to 59,Male,St. James,NE179,St. James Industrial,1
+2024042891,2024-04-02T22:40:23Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,1
