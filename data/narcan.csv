@@ -20910,3 +20910,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024042830,2024-04-02T19:09:31Z,1,45 to 49,Male,Daniel McIntyre,NE174,Spence,2
 2024042869,2024-04-02T21:32:10Z,1,55 to 59,Male,St. James,NE179,St. James Industrial,1
 2024042891,2024-04-02T22:40:23Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024043007,2024-04-03T07:50:49Z,1,30 to 34,Female,Elmwood - East Kildonan,NE109,Munroe East,2
+2024043093,2024-04-03T10:48:00Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024043153,2024-04-03T12:55:33Z,1,20 to 24,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024043174,2024-04-03T13:47:00Z,1,20 to 24,Female,NA,NA,NA,3
+2024043245,2024-04-03T16:21:35Z,1,30 to 34,Male,Daniel McIntyre,NE174,Spence,2
+2024043292,2024-04-03T17:34:32Z,1,50 to 54,Male,Daniel McIntyre,NE025,Central Park,1
+2024043348,2024-04-03T20:11:01Z,1,20 to 24,Female,Point Douglas,NE024,Centennial,1
+2024043405,2024-04-03T23:06:03Z,1,15 to 19,Female,Mynarski,NE112,Mynarski,1
+2024043412,2024-04-03T23:29:04Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE045,Earl Grey,3
+2024043665,2024-04-04T13:53:35Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,1
+2024043918,2024-04-04T23:02:24Z,1,20 to 24,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024043922,2024-04-04T23:29:35Z,1,NA,Unknown,Daniel McIntyre,NE038,Daniel McIntyre,2
