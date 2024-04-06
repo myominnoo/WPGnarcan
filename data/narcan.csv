@@ -20922,3 +20922,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024043665,2024-04-04T13:53:35Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,1
 2024043918,2024-04-04T23:02:24Z,1,20 to 24,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
 2024043922,2024-04-04T23:29:35Z,1,NA,Unknown,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024041599,2024-03-31T03:03:14Z,1,40 to 44,Male,Charleswood - Tuxedo - Westwood,NE146,River West Park,5
+2024043976,2024-04-05T02:50:52Z,1,50 to 54,Male,Charleswood - Tuxedo - Westwood,NE228,Westwood,4
+2024044034,2024-04-05T08:48:56Z,1,40 to 44,Female,Elmwood - East Kildonan,NE189,Talbot-Grey,1
+2024044185,2024-04-05T14:39:30Z,1,35 to 39,Female,Old Kildonan,NE190,Templeton-Sinclair,1
+2024044216,2024-04-05T15:36:36Z,1,35 to 39,Female,Elmwood - East Kildonan,NE028,Chalmers,4
+2024044281,2024-04-05T17:57:24Z,1,35 to 39,Male,Mynarski,NE040,Dufferin,2
+2024044283,2024-04-05T18:07:55Z,1,30 to 34,Male,Mynarski,NE181,St. John's Park,5
+2024044351,2024-04-05T20:41:40Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024044360,2024-04-05T21:21:08Z,1,50 to 54,Male,Daniel McIntyre,NE182,St. Matthews,4
+2024044395,2024-04-05T22:37:36Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024044406,2024-04-05T22:56:20Z,1,25 to 29,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
