@@ -20910,7 +20910,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024042830,2024-04-02T19:09:31Z,1,45 to 49,Male,Daniel McIntyre,NE174,Spence,2
 2024042869,2024-04-02T21:32:10Z,1,55 to 59,Male,St. James,NE179,St. James Industrial,1
 2024042891,2024-04-02T22:40:23Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,1
-2024043007,2024-04-03T07:50:49Z,1,30 to 34,Female,Elmwood - East Kildonan,NE109,Munroe East,2
+2024043007,2024-04-03T07:41:12Z,1,30 to 34,Female,Elmwood - East Kildonan,NE109,Munroe East,1
 2024043093,2024-04-03T10:48:00Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
 2024043153,2024-04-03T12:55:33Z,1,20 to 24,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024043174,2024-04-03T13:47:00Z,1,20 to 24,Female,NA,NA,NA,3
@@ -20949,3 +20949,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024045259,2024-04-07T19:57:53Z,1,40 to 44,Female,Old Kildonan,NE055,Garden City,2
 2024045307,2024-04-07T21:48:33Z,1,35 to 39,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
 2024045316,2024-04-07T22:08:27Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,1
+2024043007,2024-04-03T07:50:49Z,2,30 to 34,Female,Elmwood - East Kildonan,NE109,Munroe East,2
+2024044029,2024-04-05T08:35:31Z,1,30 to 34,Male,Elmwood - East Kildonan,NE028,Chalmers,3
+2024044798,2024-04-06T20:15:32Z,1,NA,Unknown,St. Boniface,NE027,Central St. Boniface,1
+2024045350,2024-04-07T23:36:19Z,1,40 to 44,Male,Point Douglas,NE226,Weston,3
+2024045446,2024-04-08T08:05:31Z,1,45 to 49,Female,Daniel McIntyre,NE174,Spence,1
+2024045506,2024-04-08T10:15:39Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,1
+2024045546,2024-04-08T12:01:47Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE089,Lord Roberts,1
+2024045584,2024-04-08T13:34:11Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,2
+2024045646,2024-04-08T15:40:15Z,1,30 to 34,Male,Point Douglas,NE022,Burrows-Keewatin,4
+2024045739,2024-04-08T20:06:31Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
+2024045739,2024-04-08T20:06:31Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,3
+2024045789,2024-04-08T21:53:14Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,4
+2024045820,2024-04-08T23:28:24Z,1,35 to 39,Unknown,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,3
