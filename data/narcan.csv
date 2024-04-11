@@ -20962,3 +20962,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024045739,2024-04-08T20:06:31Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,3
 2024045789,2024-04-08T21:53:14Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,4
 2024045820,2024-04-08T23:28:24Z,1,35 to 39,Unknown,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,3
+2024045789,2024-04-08T21:53:14Z,2,25 to 29,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,3
+2024045894,2024-04-09T04:08:35Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024046071,2024-04-09T13:18:55Z,1,40 to 44,Male,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024046265,2024-04-09T21:13:46Z,1,45 to 49,Female,Mynarski,NE232,William Whyte,1
+2024046290,2024-04-09T22:37:27Z,1,20 to 24,Male,North Kildonan,NE205,Valhalla,1
