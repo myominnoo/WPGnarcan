@@ -20972,3 +20972,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024046515,2024-04-10T12:16:58Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,1
 2024046658,2024-04-10T17:21:18Z,1,35 to 39,Female,Daniel McIntyre,NE182,St. Matthews,1
 2024046826,2024-04-10T23:14:22Z,1,35 to 39,Male,Mynarski,NE162,Seven Oaks,3
+2024046560,2024-04-10T14:12:29Z,1,25 to 29,Female,Elmwood - East Kildonan,NE189,Talbot-Grey,3
+2024047363,2024-04-12T04:29:59Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,2
+2024047511,2024-04-12T14:06:05Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,4
+2024047528,2024-04-12T14:44:41Z,1,20 to 24,Male,Point Douglas,NE219,West Alexander,3
+2024047532,2024-04-12T14:54:26Z,1,45 to 49,Male,Mynarski,NE232,William Whyte,2
+2024047565,2024-04-12T16:25:01Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2024047580,2024-04-12T17:00:19Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,3
+2024047587,2024-04-12T17:19:19Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,3
+2024047600,2024-04-12T17:58:02Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,4
+2024047616,2024-04-12T18:21:44Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024047634,2024-04-12T18:42:52Z,1,45 to 49,Female,Point Douglas,NE219,West Alexander,1
+2024047649,2024-04-12T19:17:08Z,1,50 to 54,Male,Point Douglas,NE030,China Town,1
+2024047654,2024-04-12T19:31:35Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
