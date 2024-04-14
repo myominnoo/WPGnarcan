@@ -20985,3 +20985,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024047634,2024-04-12T18:42:52Z,1,45 to 49,Female,Point Douglas,NE219,West Alexander,1
 2024047649,2024-04-12T19:17:08Z,1,50 to 54,Male,Point Douglas,NE030,China Town,1
 2024047654,2024-04-12T19:31:35Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024047850,2024-04-13T09:15:00Z,1,60 to 64,Female,Mynarski,NE232,William Whyte,1
+2024048022,2024-04-13T17:36:20Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2024048034,2024-04-13T18:14:38Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,2
