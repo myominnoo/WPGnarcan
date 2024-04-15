@@ -20988,3 +20988,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024047850,2024-04-13T09:15:00Z,1,60 to 64,Female,Mynarski,NE232,William Whyte,1
 2024048022,2024-04-13T17:36:20Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
 2024048034,2024-04-13T18:14:38Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,2
+2024048273,2024-04-14T05:09:56Z,1,35 to 39,Male,Daniel McIntyre,NE033,Colony,2
+2024048347,2024-04-14T09:08:54Z,1,55 to 59,Male,Point Douglas,NE030,China Town,1
+2024048523,2024-04-14T16:57:02Z,1,30 to 34,Male,Point Douglas,NE135,Portage & Main,2
+2024048538,2024-04-14T17:26:12Z,1,40 to 44,Male,Point Douglas,NE226,Weston,4
