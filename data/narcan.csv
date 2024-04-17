@@ -21006,3 +21006,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024049168,2024-04-15T21:38:04Z,1,25 to 29,Female,Elmwood - East Kildonan,NE028,Chalmers,1
 2024049206,2024-04-15T23:05:40Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,2
 2024049214,2024-04-15T23:19:03Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,2
+2024049199,2024-04-15T22:58:51Z,1,30 to 34,Male,St. James,NE039,Deer Lodge,2
+2024049454,2024-04-16T14:28:09Z,1,50 to 54,Male,Point Douglas,NE166,South Point Douglas,3
+2024049573,2024-04-16T20:23:14Z,1,35 to 39,Female,Waverley West,NE053,Fairfield Park,1
+2024049587,2024-04-16T20:58:12Z,1,30 to 34,Unknown,Daniel McIntyre,NE136,Portage-Ellice,1
