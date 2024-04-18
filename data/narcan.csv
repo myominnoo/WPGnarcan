@@ -21010,3 +21010,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024049454,2024-04-16T14:28:09Z,1,50 to 54,Male,Point Douglas,NE166,South Point Douglas,3
 2024049573,2024-04-16T20:23:14Z,1,35 to 39,Female,Waverley West,NE053,Fairfield Park,1
 2024049587,2024-04-16T20:58:12Z,1,30 to 34,Unknown,Daniel McIntyre,NE136,Portage-Ellice,1
+2024048170,2024-04-13T23:17:26Z,1,30 to 34,Female,St. James,NE179,St. James Industrial,1
+2024049214,2024-04-15T23:19:50Z,2,NA,Unknown,Mynarski,NE232,William Whyte,1
+2024049965,2024-04-17T18:32:37Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2024049990,2024-04-17T19:45:02Z,1,30 to 34,Female,Point Douglas,NE030,China Town,1
+2024050053,2024-04-17T23:14:32Z,1,30 to 34,Male,St. Boniface,NE122,Norwood East,1
+2024050066,2024-04-17T23:50:37Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,2
