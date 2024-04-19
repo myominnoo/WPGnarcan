@@ -21016,3 +21016,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024049990,2024-04-17T19:45:02Z,1,30 to 34,Female,Point Douglas,NE030,China Town,1
 2024050053,2024-04-17T23:14:32Z,1,30 to 34,Male,St. Boniface,NE122,Norwood East,1
 2024050066,2024-04-17T23:50:37Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,2
+2024049916,2024-04-17T16:46:41Z,1,40 to 44,Male,Daniel McIntyre,NE136,Portage-Ellice,3
+2024050215,2024-04-18T10:55:00Z,1,25 to 29,Female,Point Douglas,NE031,Civic Centre,2
+2024050253,2024-04-18T12:02:27Z,1,50 to 54,Female,Point Douglas,NE166,South Point Douglas,2
+2024050395,2024-04-18T19:34:13Z,1,20 to 24,Unknown,Mynarski,NE180,St. John's,1
+2024050429,2024-04-18T19:05:16Z,1,35 to 39,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024050483,2024-04-18T22:04:00Z,1,45 to 49,Female,Transcona,NE139,Regent,1
