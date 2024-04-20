@@ -21022,3 +21022,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024050395,2024-04-18T19:34:13Z,1,20 to 24,Unknown,Mynarski,NE180,St. John's,1
 2024050429,2024-04-18T19:05:16Z,1,35 to 39,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
 2024050483,2024-04-18T22:04:00Z,1,45 to 49,Female,Transcona,NE139,Regent,1
+2024050613,2024-04-19T09:29:45Z,1,40 to 44,Female,Daniel McIntyre,NE038,Daniel McIntyre,3
+2024050888,2024-04-19T22:56:32Z,1,25 to 29,Male,Mynarski,NE180,St. John's,2
