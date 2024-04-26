@@ -21040,3 +21040,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024052209,2024-04-22T21:10:20Z,1,30 to 34,Female,St. Boniface,NE027,Central St. Boniface,3
 2024052217,2024-04-22T21:36:58Z,1,35 to 39,Male,St. Boniface,NE027,Central St. Boniface,1
 2024052236,2024-04-22T22:18:30Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2024051117,2024-04-20T15:23:40Z,2,NA,Unknown,Point Douglas,NE017,Brooklands,1
+2024052374,2024-04-23T09:26:38Z,1,45 to 49,Male,Point Douglas,NE052,Exchange District,3
+2024052520,2024-04-23T14:29:08Z,1,40 to 44,Male,St. Boniface,NE172,Southdale,1
+2024052523,2024-04-23T14:38:55Z,1,40 to 44,Female,Point Douglas,NE219,West Alexander,2
+2024052631,2024-04-23T18:22:41Z,1,35 to 39,Female,Elmwood - East Kildonan,NE028,Chalmers,2
+2024053246,2024-04-25T04:34:07Z,1,30 to 34,Female,Daniel McIntyre,NE136,Portage-Ellice,2
+2024053256,2024-04-25T06:27:02Z,1,35 to 39,Male,Waverley West,NE141,Richmond West,3
+2024053268,2024-04-25T07:09:05Z,1,30 to 34,Female,Daniel McIntyre,NE174,Spence,1
+2024053297,2024-04-25T09:07:03Z,1,25 to 29,Female,Old Kildonan,NE093,Mandalay West,5
+2024053418,2024-04-25T13:44:43Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,3
+2024053573,2024-04-25T19:38:05Z,1,15 to 19,Male,Daniel McIntyre,NE174,Spence,1
+2024053580,2024-04-25T20:16:48Z,1,40 to 44,Male,Point Douglas,NE031,Civic Centre,2
+2024053600,2024-04-25T20:58:04Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
