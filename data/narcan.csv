@@ -21027,7 +21027,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024050984,2024-04-20T07:46:51Z,1,25 to 29,Male,River Heights - Fort Garry,NE059,Grant Park,2
 2024051068,2024-04-20T13:11:20Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
 2024051074,2024-04-20T13:41:37Z,1,30 to 34,Male,Mynarski,NE162,Seven Oaks,1
-2024051117,2024-04-20T15:25:01Z,1,15 to 19,Female,Point Douglas,NE017,Brooklands,1
+2024051117,2024-04-20T15:23:40Z,1,NA,Unknown,Point Douglas,NE017,Brooklands,1
 2024051266,2024-04-20T21:05:45Z,1,35 to 39,Female,Mynarski,NE180,St. John's,1
 2024051336,2024-04-20T23:59:45Z,1,30 to 34,Male,St. Boniface,NE122,Norwood East,1
 2024051261,2024-04-20T20:52:10Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,1
@@ -21040,7 +21040,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024052209,2024-04-22T21:10:20Z,1,30 to 34,Female,St. Boniface,NE027,Central St. Boniface,3
 2024052217,2024-04-22T21:36:58Z,1,35 to 39,Male,St. Boniface,NE027,Central St. Boniface,1
 2024052236,2024-04-22T22:18:30Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE100,McMillan,2
-2024051117,2024-04-20T15:23:40Z,2,NA,Unknown,Point Douglas,NE017,Brooklands,1
+2024051117,2024-04-20T15:25:01Z,2,15 to 19,Female,Point Douglas,NE017,Brooklands,1
 2024052374,2024-04-23T09:26:38Z,1,45 to 49,Male,Point Douglas,NE052,Exchange District,3
 2024052520,2024-04-23T14:29:08Z,1,40 to 44,Male,St. Boniface,NE172,Southdale,1
 2024052523,2024-04-23T14:38:55Z,1,40 to 44,Female,Point Douglas,NE219,West Alexander,2
@@ -21053,3 +21053,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024053573,2024-04-25T19:38:05Z,1,15 to 19,Male,Daniel McIntyre,NE174,Spence,1
 2024053580,2024-04-25T20:16:48Z,1,40 to 44,Male,Point Douglas,NE031,Civic Centre,2
 2024053600,2024-04-25T20:58:04Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024053663,2024-04-26T00:15:51Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,2
+2024053679,2024-04-26T01:43:28Z,1,35 to 39,Female,Mynarski,NE232,William Whyte,1
+2024053712,2024-04-26T04:17:50Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2024053840,2024-04-26T11:34:57Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,2
+2024053855,2024-04-26T12:20:56Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,1
+2024053993,2024-04-26T17:26:20Z,1,25 to 29,Female,Point Douglas,NE017,Brooklands,1
+2024054028,2024-04-26T18:40:36Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,2
+2024054033,2024-04-26T18:49:16Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
