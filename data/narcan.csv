@@ -21061,3 +21061,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024053993,2024-04-26T17:26:20Z,1,25 to 29,Female,Point Douglas,NE017,Brooklands,1
 2024054028,2024-04-26T18:40:36Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,2
 2024054033,2024-04-26T18:49:16Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024054348,2024-04-27T12:30:43Z,1,25 to 29,Female,Point Douglas,NE021,Burrows Central,1
+2024054463,2024-04-27T17:51:52Z,1,25 to 29,Male,Point Douglas,NE127,Pacific Industrial,1
+2024054524,2024-04-27T20:23:36Z,1,30 to 34,Male,Point Douglas,NE017,Brooklands,1
+2024054582,2024-04-27T23:04:16Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
