@@ -21115,3 +21115,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024058974,2024-05-07T07:34:56Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,1
 2024059139,2024-05-07T13:47:08Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,1
 2024059158,2024-05-07T14:20:54Z,1,35 to 39,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,1
+2024059374,2024-05-08T00:02:29Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2024059377,2024-05-08T00:19:12Z,1,25 to 29,Female,St. Vital,NE207,Varennes,3
+2024059390,2024-05-08T00:40:00Z,1,NA,Unknown,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024059695,2024-05-08T15:49:10Z,1,35 to 39,Female,Mynarski,NE041,Dufferin Industrial,1
