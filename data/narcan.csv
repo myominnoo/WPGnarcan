@@ -21124,3 +21124,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024060304,2024-05-09T19:56:35Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,1
 2024060311,2024-05-09T20:08:30Z,1,25 to 29,Male,Charleswood - Tuxedo - Westwood,NE146,River West Park,3
 2024060352,2024-05-09T21:54:17Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,5
+2024060300,2024-05-09T19:49:58Z,1,25 to 29,Female,Point Douglas,NE024,Centennial,1
+2024060383,2024-05-09T22:59:03Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,3
+2024060410,2024-05-10T00:11:18Z,1,55 to 59,Male,Point Douglas,NE166,South Point Douglas,1
+2024060463,2024-05-10T04:15:15Z,1,30 to 34,Male,Elmwood - East Kildonan,NE189,Talbot-Grey,1
+2024060495,2024-05-10T08:14:25Z,1,55 to 59,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024060664,2024-05-10T15:21:01Z,1,35 to 39,Male,River Heights - Fort Garry,NE026,Central River Heights,2
+2024060669,2024-05-10T15:30:53Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,3
+2024060704,2024-05-10T16:34:24Z,1,25 to 29,Female,Mynarski,NE181,St. John's Park,2
+2024060792,2024-05-10T19:57:41Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,2
+2024060810,2024-05-10T20:28:32Z,1,45 to 49,Male,Mynarski,NE180,St. John's,1
+2024060893,2024-05-10T23:47:07Z,1,15 to 19,Male,Mynarski,NE180,St. John's,3
