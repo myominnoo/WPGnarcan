@@ -21143,3 +21143,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024061157,2024-05-11T14:21:24Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,1
 2024061237,2024-05-11T17:38:08Z,1,30 to 34,Male,Point Douglas,NE219,West Alexander,4
 2024061361,2024-05-11T22:52:40Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024061450,2024-05-12T04:34:21Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024061489,2024-05-12T07:36:31Z,1,25 to 29,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024061502,2024-05-12T08:14:02Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024061635,2024-05-12T13:55:34Z,1,35 to 39,Female,Mynarski,NE180,St. John's,1
+2024061650,2024-05-12T14:20:51Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,1
+2024061703,2024-05-12T17:35:52Z,1,25 to 29,Male,Point Douglas,NE166,South Point Douglas,2
+2024061744,2024-05-12T19:45:23Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,1
