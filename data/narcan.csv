@@ -21150,3 +21150,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024061650,2024-05-12T14:20:51Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,1
 2024061703,2024-05-12T17:35:52Z,1,25 to 29,Male,Point Douglas,NE166,South Point Douglas,2
 2024061744,2024-05-12T19:45:23Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,1
+2024062186,2024-05-13T17:44:18Z,1,30 to 34,Male,Mynarski,NE180,St. John's,1
+2024062217,2024-05-13T19:09:58Z,1,Over 100,Female,Mynarski,NE232,William Whyte,2
+2024062268,2024-05-13T21:55:27Z,1,30 to 34,Female,Daniel McIntyre,NE182,St. Matthews,2
+2024062296,2024-05-13T23:08:01Z,1,25 to 29,Male,North Kildonan,NE156,Rossmere-A,1
