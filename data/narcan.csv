@@ -21184,3 +21184,17 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024064771,2024-05-19T04:17:00Z,1,NA,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
 2024064801,2024-05-19T07:44:27Z,1,35 to 39,Male,Mynarski,NE040,Dufferin,1
 2024064970,2024-05-19T16:00:25Z,1,20 to 24,Male,Daniel McIntyre,NE025,Central Park,1
+2024065167,2024-05-20T00:52:15Z,1,40 to 44,Female,Elmwood - East Kildonan,NE057,Glenelm,1
+2024065186,2024-05-20T02:00:52Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,1
+2024065422,2024-05-20T15:26:56Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,1
+2024065522,2024-05-20T19:27:25Z,1,50 to 54,Male,Point Douglas,NE021,Burrows Central,4
+2024065575,2024-05-20T22:21:04Z,1,60 to 64,Female,Mynarski,NE232,William Whyte,1
+2024065607,2024-05-21T00:06:06Z,1,20 to 24,Female,Daniel McIntyre,NE174,Spence,2
+2024065621,2024-05-21T00:53:03Z,1,20 to 24,Female,Point Douglas,NE219,West Alexander,1
+2024065629,2024-05-21T01:17:19Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,4
+2024065700,2024-05-21T07:41:27Z,1,65 to 69,Male,Mynarski,NE232,William Whyte,2
+2024065756,2024-05-21T10:08:32Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,4
+2024065808,2024-05-21T12:09:49Z,1,25 to 29,Female,Point Douglas,NE021,Burrows Central,1
+2024066063,2024-05-21T21:47:40Z,1,20 to 24,Male,Daniel McIntyre,NE025,Central Park,1
+2024066064,2024-05-21T21:48:52Z,1,35 to 39,Female,Elmwood - East Kildonan,NE189,Talbot-Grey,2
+2024066073,2024-05-21T22:26:38Z,1,45 to 49,Male,Point Douglas,NE021,Burrows Central,1
