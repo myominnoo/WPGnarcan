@@ -21217,3 +21217,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024067411,2024-05-24T20:25:11Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,1
 2024067439,2024-05-24T21:19:59Z,1,25 to 29,Female,Mynarski,NE070,Jefferson,1
 2024067474,2024-05-24T23:23:05Z,1,30 to 34,Male,Point Douglas,NE021,Burrows Central,3
+2024067577,2024-05-25T08:31:12Z,1,40 to 44,Male,Mynarski,NE232,William Whyte,1
+2024067602,2024-05-25T10:07:51Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,1
+2024067682,2024-05-25T14:17:47Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2024067729,2024-05-25T17:00:23Z,1,15 to 19,Female,St. Boniface,NE027,Central St. Boniface,1
