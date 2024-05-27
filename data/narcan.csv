@@ -21221,3 +21221,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024067602,2024-05-25T10:07:51Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,1
 2024067682,2024-05-25T14:17:47Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,2
 2024067729,2024-05-25T17:00:23Z,1,15 to 19,Female,St. Boniface,NE027,Central St. Boniface,1
+2024067891,2024-05-26T00:58:24Z,1,30 to 34,Female,Mynarski,NE180,St. John's,4
+2024067909,2024-05-26T02:28:06Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,2
+2024068059,2024-05-26T11:31:45Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024068099,2024-05-26T13:11:03Z,1,80 to 84,Female,Fort Rouge - East Fort Garry,NE154,Roslyn,1
+2024068110,2024-05-26T13:41:31Z,1,20 to 24,Female,Point Douglas,NE021,Burrows Central,1
+2024068139,2024-05-26T15:07:45Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024068182,2024-05-26T16:52:05Z,1,20 to 24,Male,Mynarski,NE040,Dufferin,2
+2024068184,2024-05-26T16:54:43Z,1,55 to 59,Male,St. Boniface,NE027,Central St. Boniface,2
+2024068270,2024-05-26T19:51:16Z,1,50 to 54,Female,Old Kildonan,NE190,Templeton-Sinclair,2
+2024068330,2024-05-26T23:02:55Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,3
+2024068331,2024-05-26T23:04:23Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,2
