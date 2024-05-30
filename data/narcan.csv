@@ -21249,3 +21249,13 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024069201,2024-05-28T16:49:09Z,1,30 to 34,Female,Daniel McIntyre,NE182,St. Matthews,5
 2024069211,2024-05-28T17:14:14Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
 2024069334,2024-05-28T21:35:39Z,1,25 to 29,Male,Daniel McIntyre,NE025,Central Park,3
+2024069479,2024-05-29T09:16:23Z,1,20 to 24,Female,Daniel McIntyre,NE025,Central Park,1
+2024069493,2024-05-29T09:40:21Z,1,35 to 39,Male,Mynarski,NE180,St. John's,1
+2024069510,2024-05-29T10:40:29Z,1,60 to 64,Female,River Heights - Fort Garry,NE097,Mathers,1
+2024069597,2024-05-29T13:26:05Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024069664,2024-05-29T15:23:08Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024069830,2024-05-29T20:55:01Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,3
+2024069837,2024-05-29T21:06:11Z,1,45 to 49,Male,Mynarski,NE232,William Whyte,1
+2024069838,2024-05-29T21:06:42Z,1,50 to 54,Male,Mynarski,NE180,St. John's,2
+2024069845,2024-05-29T21:12:06Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024069881,2024-05-29T22:37:41Z,1,25 to 29,Male,Mynarski,NE070,Jefferson,1
