@@ -21292,3 +21292,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024071006,2024-05-31T22:35:21Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
 2024071007,2024-05-31T22:36:05Z,1,35 to 39,Female,St. Boniface,NE027,Central St. Boniface,1
 2024071008,2024-05-31T22:38:20Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,4
+2024071029,2024-05-31T23:35:50Z,1,25 to 29,Male,Point Douglas,NE030,China Town,2
+2024071153,2024-06-01T07:52:48Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,2
+2024071154,2024-06-01T07:55:22Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024071216,2024-06-01T10:30:14Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,2
+2024071252,2024-06-01T11:48:55Z,1,30 to 34,Female,North Kildonan,NE175,Springfield North,1
+2024071260,2024-06-01T12:04:06Z,1,25 to 29,Female,Mynarski,NE066,Inkster-Faraday,2
+2024071286,2024-06-01T13:09:00Z,1,40 to 44,Male,Point Douglas,NE024,Centennial,1
+2024071298,2024-06-01T13:30:05Z,1,25 to 29,Male,Point Douglas,NE166,South Point Douglas,1
+2024071313,2024-06-01T13:56:17Z,1,30 to 34,Male,Elmwood - East Kildonan,NE206,Valley Gardens,2
+2024071348,2024-06-01T15:31:55Z,1,40 to 44,Male,Transcona,NE139,Regent,3
+2024071367,2024-06-01T16:14:32Z,1,30 to 34,Unknown,Old Kildonan,NE085,Leila-McPhillips Triangle,3
+2024071373,2024-06-01T16:28:55Z,1,35 to 39,Male,Daniel McIntyre,NE105,Minto,1
+2024071424,2024-06-01T18:51:20Z,1,40 to 44,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024071462,2024-06-01T20:18:00Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,2
+2024071472,2024-06-01T20:44:10Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
