@@ -21307,3 +21307,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024071424,2024-06-01T18:51:20Z,1,40 to 44,Male,Daniel McIntyre,NE136,Portage-Ellice,1
 2024071462,2024-06-01T20:18:00Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,2
 2024071472,2024-06-01T20:44:10Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024071558,2024-06-02T00:10:50Z,1,40 to 44,Male,Point Douglas,NE226,Weston,1
+2024071618,2024-06-02T03:07:50Z,1,30 to 34,Male,St. James,NE164,Silver Heights,1
+2024071669,2024-06-02T08:20:40Z,1,15 to 19,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024071819,2024-06-02T14:29:36Z,1,30 to 34,Female,Mynarski,NE180,St. John's,2
+2024071897,2024-06-02T16:57:22Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,3
+2024071974,2024-06-02T19:59:39Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,2
