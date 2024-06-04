@@ -21313,3 +21313,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024071819,2024-06-02T14:29:36Z,1,30 to 34,Female,Mynarski,NE180,St. John's,2
 2024071897,2024-06-02T16:57:22Z,1,25 to 29,Female,Daniel McIntyre,NE038,Daniel McIntyre,3
 2024071974,2024-06-02T19:59:39Z,1,30 to 34,Female,Mynarski,NE232,William Whyte,2
+2024072075,2024-06-03T00:34:16Z,1,30 to 34,Male,Elmwood - East Kildonan,NE028,Chalmers,1
+2024072168,2024-06-03T08:22:02Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,2
+2024072225,2024-06-03T10:34:13Z,1,40 to 44,Male,Point Douglas,NE024,Centennial,1
+2024072260,2024-06-03T11:44:12Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,2
+2024072261,2024-06-03T11:48:35Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,2
+2024072304,2024-06-03T12:40:59Z,1,35 to 39,Female,Point Douglas,NE226,Weston,4
+2024072322,2024-06-03T13:22:07Z,1,55 to 59,Female,St. Boniface,NE027,Central St. Boniface,1
+2024072344,2024-06-03T14:35:30Z,1,20 to 24,Female,St. Vital,NE058,Glenwood,1
+2024072392,2024-06-03T15:39:38Z,1,35 to 39,Female,Point Douglas,NE219,West Alexander,1
+2024072491,2024-06-03T19:21:50Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
+2024072491,2024-06-03T19:21:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,2
+2024072589,2024-06-03T22:40:23Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
