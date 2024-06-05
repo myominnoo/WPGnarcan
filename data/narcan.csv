@@ -21325,3 +21325,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024072491,2024-06-03T19:21:50Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
 2024072491,2024-06-03T19:21:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,2
 2024072589,2024-06-03T22:40:23Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024072629,2024-06-04T00:53:23Z,1,30 to 34,Male,Point Douglas,NE021,Burrows Central,3
+2024072708,2024-06-04T07:17:55Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2024072713,2024-06-04T07:40:08Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,2
+2024072718,2024-06-04T08:21:52Z,1,40 to 44,Male,Daniel McIntyre,NE234,Wolseley,1
+2024072719,2024-06-04T08:05:33Z,1,40 to 44,Male,Daniel McIntyre,NE174,Spence,1
+2024072756,2024-06-04T09:39:51Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2024072779,2024-06-04T10:10:41Z,1,0 to 4,Male,Elmwood - East Kildonan,NE028,Chalmers,2
+2024072788,2024-06-04T10:26:56Z,1,40 to 44,Female,Daniel McIntyre,NE033,Colony,4
+2024072818,2024-06-04T11:27:06Z,1,55 to 59,Male,Point Douglas,NE031,Civic Centre,3
+2024072822,2024-06-04T11:37:32Z,1,25 to 29,Female,Point Douglas,NE030,China Town,2
+2024073001,2024-06-04T17:16:32Z,1,30 to 34,Male,Point Douglas,NE219,West Alexander,1
+2024073066,2024-06-04T19:42:17Z,1,25 to 29,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024073109,2024-06-04T21:14:12Z,1,15 to 19,Male,Daniel McIntyre,NE174,Spence,1
+2024073156,2024-06-04T23:10:36Z,1,30 to 34,Male,Point Douglas,NE226,Weston,2
+2024073161,2024-06-04T23:42:08Z,1,25 to 29,Male,Daniel McIntyre,NE025,Central Park,2
