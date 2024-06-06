@@ -21260,8 +21260,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024069845,2024-05-29T21:12:06Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024069881,2024-05-29T22:37:41Z,1,25 to 29,Male,Mynarski,NE070,Jefferson,1
 2024069948,2024-05-30T01:59:40Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
-2024069968,2024-05-30T03:27:47Z,1,25 to 29,Male,Point Douglas,NE166,South Point Douglas,3
-2024069968,2024-05-30T03:27:48Z,2,35 to 39,Female,Point Douglas,NE166,South Point Douglas,1
+2024069968,2024-05-30T03:27:48Z,1,35 to 39,Female,Point Douglas,NE166,South Point Douglas,1
+2024069968,2024-05-30T03:27:47Z,2,25 to 29,Male,Point Douglas,NE166,South Point Douglas,3
 2024070030,2024-05-30T07:56:05Z,1,25 to 29,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,4
 2024070086,2024-05-30T09:55:01Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,2
 2024070090,2024-05-30T10:14:52Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,1
@@ -21340,3 +21340,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024073109,2024-06-04T21:14:12Z,1,15 to 19,Male,Daniel McIntyre,NE174,Spence,1
 2024073156,2024-06-04T23:10:36Z,1,30 to 34,Male,Point Douglas,NE226,Weston,2
 2024073161,2024-06-04T23:42:08Z,1,25 to 29,Male,Daniel McIntyre,NE025,Central Park,2
+2024071643,2024-06-02T06:10:21Z,1,40 to 44,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,5
+2024073158,2024-06-04T23:12:36Z,1,55 to 59,Female,Mynarski,NE180,St. John's,1
+2024073226,2024-06-05T04:30:11Z,1,30 to 34,Male,Mynarski,NE118,North Point Douglas,1
+2024073238,2024-06-05T05:49:26Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,1
+2024073280,2024-06-05T08:48:05Z,1,25 to 29,Male,Daniel McIntyre,NE025,Central Park,1
+2024073312,2024-06-05T09:41:15Z,1,35 to 39,Male,Mynarski,NE066,Inkster-Faraday,1
+2024073574,2024-06-05T19:04:48Z,1,25 to 29,Female,Mynarski,NE090,Lord Selkirk Park,1
+2024073616,2024-06-05T20:17:50Z,1,60 to 64,Female,Mynarski,NE180,St. John's,1
+2024073622,2024-06-05T20:32:13Z,1,35 to 39,Male,Point Douglas,NE021,Burrows Central,3
+2024073629,2024-06-05T20:44:28Z,1,65 to 69,Male,Fort Rouge - East Fort Garry,NE168,South Portage,4
+2024073629,2024-06-05T20:44:28Z,2,50 to 54,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024073650,2024-06-05T21:31:57Z,1,45 to 49,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
