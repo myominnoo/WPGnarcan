@@ -21358,3 +21358,14 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024074007,2024-06-06T17:27:26Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,3
 2024074059,2024-06-06T19:31:43Z,1,35 to 39,Male,Elmwood - East Kildonan,NE028,Chalmers,2
 2024074139,2024-06-06T22:49:22Z,1,50 to 54,Male,St. Boniface,NE123,Norwood West,1
+2024074197,2024-06-07T02:17:19Z,1,20 to 24,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024074230,2024-06-07T05:40:21Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,4
+2024074375,2024-06-07T12:30:24Z,1,55 to 59,Female,Elmwood - East Kildonan,NE028,Chalmers,1
+2024074390,2024-06-07T13:07:53Z,1,40 to 44,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,1
+2024074401,2024-06-07T13:27:25Z,1,45 to 49,Male,Point Douglas,NE024,Centennial,1
+2024074421,2024-06-07T14:54:19Z,1,20 to 24,Female,St. Boniface,NE122,Norwood East,2
+2024074441,2024-06-07T15:15:30Z,1,35 to 39,Male,St. James,NE179,St. James Industrial,1
+2024074449,2024-06-07T15:46:02Z,1,20 to 24,Male,Mynarski,NE151,Robertson,2
+2024074451,2024-06-07T15:53:11Z,1,20 to 24,Male,Mynarski,NE180,St. John's,3
+2024074536,2024-06-07T19:01:34Z,1,35 to 39,Male,St. Boniface,NE027,Central St. Boniface,1
+2024074548,2024-06-07T19:44:19Z,1,50 to 54,Male,St. Boniface,NE122,Norwood East,2
