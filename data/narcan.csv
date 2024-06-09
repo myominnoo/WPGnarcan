@@ -21322,8 +21322,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024072322,2024-06-03T13:22:07Z,1,55 to 59,Female,St. Boniface,NE027,Central St. Boniface,1
 2024072344,2024-06-03T14:35:30Z,1,20 to 24,Female,St. Vital,NE058,Glenwood,1
 2024072392,2024-06-03T15:39:38Z,1,35 to 39,Female,Point Douglas,NE219,West Alexander,1
-2024072491,2024-06-03T19:21:50Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,3
-2024072491,2024-06-03T19:21:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,2
+2024072491,2024-06-03T19:21:50Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,2
+2024072491,2024-06-03T19:21:50Z,2,25 to 29,Male,Mynarski,NE232,William Whyte,3
 2024072589,2024-06-03T22:40:23Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
 2024072629,2024-06-04T00:53:23Z,1,30 to 34,Male,Point Douglas,NE021,Burrows Central,3
 2024072708,2024-06-04T07:17:55Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
@@ -21369,3 +21369,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024074451,2024-06-07T15:53:11Z,1,20 to 24,Male,Mynarski,NE180,St. John's,3
 2024074536,2024-06-07T19:01:34Z,1,35 to 39,Male,St. Boniface,NE027,Central St. Boniface,1
 2024074548,2024-06-07T19:44:19Z,1,50 to 54,Male,St. Boniface,NE122,Norwood East,2
+2024074467,2024-06-07T16:20:16Z,1,20 to 24,Male,Mynarski,NE151,Robertson,1
+2024074656,2024-06-08T00:30:25Z,1,40 to 44,Male,Mynarski,NE180,St. John's,1
+2024074672,2024-06-08T01:02:40Z,1,40 to 44,Female,Point Douglas,NE227,Weston Shops,2
+2024074682,2024-06-08T01:34:58Z,1,30 to 34,Female,Mynarski,NE090,Lord Selkirk Park,3
+2024074917,2024-06-08T15:41:24Z,1,25 to 29,Male,Mynarski,NE180,St. John's,1
+2024074936,2024-06-08T16:28:12Z,1,30 to 34,Female,Mynarski,NE066,Inkster-Faraday,1
+2024075000,2024-06-08T19:29:03Z,1,40 to 44,Male,Mynarski,NE091,Luxton,1
