@@ -21376,3 +21376,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024074917,2024-06-08T15:41:24Z,1,25 to 29,Male,Mynarski,NE180,St. John's,1
 2024074936,2024-06-08T16:28:12Z,1,30 to 34,Female,Mynarski,NE066,Inkster-Faraday,1
 2024075000,2024-06-08T19:29:03Z,1,40 to 44,Male,Mynarski,NE091,Luxton,1
+2024075199,2024-06-09T07:10:57Z,1,30 to 34,Female,Point Douglas,NE088,Logan-C.P.R.,2
+2024075305,2024-06-09T12:52:10Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024075336,2024-06-09T14:08:16Z,1,40 to 44,Female,Point Douglas,NE219,West Alexander,1
+2024075399,2024-06-09T16:55:39Z,1,35 to 39,Male,Point Douglas,NE017,Brooklands,3
