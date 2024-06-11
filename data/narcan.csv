@@ -21380,3 +21380,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024075305,2024-06-09T12:52:10Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
 2024075336,2024-06-09T14:08:16Z,1,40 to 44,Female,Point Douglas,NE219,West Alexander,1
 2024075399,2024-06-09T16:55:39Z,1,35 to 39,Male,Point Douglas,NE017,Brooklands,3
+2024075557,2024-06-10T01:39:01Z,1,30 to 34,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
+2024075666,2024-06-10T09:49:01Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024075722,2024-06-10T12:20:20Z,1,30 to 34,Male,Daniel McIntyre,NE038,Daniel McIntyre,3
+2024075760,2024-06-10T13:34:47Z,1,25 to 29,Female,Mynarski,NE066,Inkster-Faraday,2
+2024075808,2024-06-10T14:44:34Z,1,40 to 44,Male,Mynarski,NE151,Robertson,2
+2024075855,2024-06-10T16:29:23Z,1,35 to 39,Male,Mynarski,NE180,St. John's,2
+2024075895,2024-06-10T17:50:09Z,1,20 to 24,Male,Mynarski,NE180,St. John's,1
+2024075925,2024-06-10T19:04:00Z,1,35 to 39,Male,St. James,NE224,West Wolseley,1
+2024075971,2024-06-10T21:00:41Z,1,40 to 44,Male,Daniel McIntyre,NE174,Spence,3
+2024076019,2024-06-10T23:37:28Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE150,Riverview,3
+2024076020,2024-06-10T23:38:19Z,1,50 to 54,Male,Point Douglas,NE024,Centennial,1
+2024076020,2024-06-10T23:38:19Z,2,45 to 49,Female,Point Douglas,NE024,Centennial,1
