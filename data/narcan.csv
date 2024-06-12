@@ -21392,3 +21392,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024076019,2024-06-10T23:37:28Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE150,Riverview,3
 2024076020,2024-06-10T23:38:19Z,1,50 to 54,Male,Point Douglas,NE024,Centennial,1
 2024076020,2024-06-10T23:38:19Z,2,45 to 49,Female,Point Douglas,NE024,Centennial,1
+2024076026,2024-06-11T00:01:59Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024076085,2024-06-11T06:30:26Z,1,35 to 39,Female,Mynarski,NE180,St. John's,3
+2024076215,2024-06-11T12:46:49Z,1,45 to 49,Male,Point Douglas,NE226,Weston,1
+2024076361,2024-06-11T17:40:31Z,1,15 to 19,Female,North Kildonan,NE076,Kildonan Drive,3
+2024076410,2024-06-11T19:40:51Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,1
+2024076418,2024-06-11T19:53:42Z,1,35 to 39,Male,St. Vital,NE184,St. Vital Centre,2
+2024076421,2024-06-11T20:07:27Z,1,30 to 34,Female,Elmwood - East Kildonan,NE028,Chalmers,1
