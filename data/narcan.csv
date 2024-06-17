@@ -21437,3 +21437,18 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024078332,2024-06-15T16:00:30Z,1,30 to 34,Male,Daniel McIntyre,NE038,Daniel McIntyre,3
 2024078572,2024-06-15T23:57:48Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE100,McMillan,2
 2024078575,2024-06-15T23:58:35Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024078554,2024-06-15T23:04:24Z,1,NA,Unknown,Mynarski,NE180,St. John's,1
+2024078605,2024-06-16T01:44:07Z,1,25 to 29,Male,Point Douglas,NE135,Portage & Main,1
+2024078649,2024-06-16T04:10:51Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,6
+2024078661,2024-06-16T04:56:46Z,1,25 to 29,Male,River Heights - Fort Garry,NE026,Central River Heights,3
+2024078698,2024-06-16T09:13:01Z,1,40 to 44,Male,St. James,NE179,St. James Industrial,4
+2024078715,2024-06-16T08:54:17Z,1,45 to 49,Male,Mynarski,NE232,William Whyte,4
+2024078725,2024-06-16T09:11:36Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,4
+2024078755,2024-06-16T10:51:51Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,4
+2024078757,2024-06-16T11:00:54Z,1,60 to 64,Male,Mynarski,NE232,William Whyte,1
+2024078868,2024-06-16T14:44:55Z,1,15 to 19,Male,Mynarski,NE041,Dufferin Industrial,2
+2024078978,2024-06-16T18:55:21Z,1,25 to 29,Female,Daniel McIntyre,NE033,Colony,2
+2024078987,2024-06-16T19:24:30Z,1,35 to 39,Male,Point Douglas,NE226,Weston,1
+2024079001,2024-06-16T19:57:32Z,1,25 to 29,Female,Daniel McIntyre,NE033,Colony,2
+2024079003,2024-06-16T19:56:24Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024079076,2024-06-16T22:23:10Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE149,River-Osborne,2
