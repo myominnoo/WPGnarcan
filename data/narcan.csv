@@ -21476,3 +21476,16 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024080021,2024-06-18T22:23:57Z,1,30 to 34,Male,Point Douglas,NE021,Burrows Central,4
 2024080027,2024-06-18T22:50:52Z,1,30 to 34,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
 2024080030,2024-06-18T23:13:11Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
+2024078391,2024-06-15T17:43:28Z,1,50 to 54,Male,Point Douglas,NE166,South Point Douglas,2
+2024080053,2024-06-19T00:48:28Z,1,35 to 39,Female,Point Douglas,NE166,South Point Douglas,2
+2024080250,2024-06-19T12:35:22Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024080257,2024-06-19T13:01:00Z,1,25 to 29,Male,Daniel McIntyre,NE174,Spence,1
+2024080335,2024-06-19T15:28:06Z,1,30 to 34,Male,Elmwood - East Kildonan,NE028,Chalmers,1
+2024080356,2024-06-19T16:10:11Z,1,35 to 39,Female,Daniel McIntyre,NE038,Daniel McIntyre,5
+2024080408,2024-06-19T17:39:55Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024080481,2024-06-19T19:45:08Z,1,35 to 39,Female,St. James,NE179,St. James Industrial,3
+2024080491,2024-06-19T20:00:08Z,1,55 to 59,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024080504,2024-06-19T20:23:58Z,1,20 to 24,Male,North Kildonan,NE156,Rossmere-A,2
+2024080514,2024-06-19T20:45:22Z,1,20 to 24,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024080544,2024-06-19T22:01:38Z,1,45 to 49,Male,Point Douglas,NE166,South Point Douglas,5
+2024080590,2024-06-19T23:54:46Z,1,30 to 34,Male,Mynarski,NE118,North Point Douglas,2
