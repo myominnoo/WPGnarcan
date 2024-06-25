@@ -21463,8 +21463,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024079464,2024-06-17T19:30:49Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
 2024079555,2024-06-17T23:08:02Z,1,30 to 34,Male,Point Douglas,NE017,Brooklands,1
 2024079568,2024-06-17T23:56:25Z,1,50 to 54,Female,Daniel McIntyre,NE025,Central Park,1
-2024079572,2024-06-18T00:05:10Z,1,35 to 39,Female,Daniel McIntyre,NE025,Central Park,3
-2024079572,2024-06-18T00:05:02Z,2,45 to 49,Female,Daniel McIntyre,NE025,Central Park,2
+2024079572,2024-06-18T00:05:02Z,1,45 to 49,Female,Daniel McIntyre,NE025,Central Park,2
+2024079572,2024-06-18T00:05:10Z,2,35 to 39,Female,Daniel McIntyre,NE025,Central Park,3
 2024079576,2024-06-18T00:19:43Z,1,20 to 24,Female,Point Douglas,NE219,West Alexander,2
 2024079589,2024-06-18T00:58:24Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE149,River-Osborne,1
 2024079591,2024-06-18T01:01:30Z,1,60 to 64,Male,Daniel McIntyre,NE025,Central Park,2
@@ -21534,3 +21534,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024082437,2024-06-23T13:50:40Z,1,30 to 34,Female,North Kildonan,NE175,Springfield North,1
 2024082617,2024-06-23T19:46:44Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,2
 2024082625,2024-06-23T20:15:27Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,4
+2024082137,2024-06-22T21:51:24Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE045,Earl Grey,1
+2024082665,2024-06-23T21:35:10Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,2
+2024082758,2024-06-24T04:45:57Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
+2024082832,2024-06-24T10:24:55Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2024082909,2024-06-24T13:05:29Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,2
+2024082963,2024-06-24T14:49:49Z,1,35 to 39,Unknown,St. James,NE036,Crestview,1
+2024083019,2024-06-24T16:22:16Z,1,25 to 29,Female,Daniel McIntyre,NE182,St. Matthews,2
+2024083173,2024-06-24T22:59:28Z,1,40 to 44,Male,Daniel McIntyre,NE136,Portage-Ellice,2
