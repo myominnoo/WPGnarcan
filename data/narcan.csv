@@ -21573,3 +21573,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024084679,2024-06-27T19:00:12Z,1,25 to 29,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024084739,2024-06-27T21:18:52Z,1,25 to 29,Male,Daniel McIntyre,NE025,Central Park,4
 2024084772,2024-06-27T22:30:34Z,1,15 to 19,Male,Mynarski,NE040,Dufferin,1
+2024084902,2024-06-28T07:48:37Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024084919,2024-06-28T08:54:17Z,1,30 to 34,Male,St. James,NE179,St. James Industrial,2
+2024084922,2024-06-28T08:51:54Z,1,20 to 24,Female,Point Douglas,NE024,Centennial,1
+2024084923,2024-06-28T09:03:20Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,2
+2024084962,2024-06-28T10:34:39Z,1,25 to 29,Male,Mynarski,NE232,William Whyte,1
+2024084998,2024-06-28T12:02:38Z,1,20 to 24,Female,Point Douglas,NE219,West Alexander,2
+2024085055,2024-06-28T14:34:00Z,1,25 to 29,Male,Mynarski,NE118,North Point Douglas,1
+2024085058,2024-06-28T14:38:40Z,1,45 to 49,Female,Point Douglas,NE088,Logan-C.P.R.,2
+2024085142,2024-06-28T17:47:35Z,1,55 to 59,Male,Point Douglas,NE024,Centennial,1
+2024085189,2024-06-28T19:01:37Z,1,45 to 49,Male,Point Douglas,NE088,Logan-C.P.R.,4
+2024085192,2024-06-28T19:04:25Z,1,65 to 69,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024085269,2024-06-28T22:20:31Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,2
