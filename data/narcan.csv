@@ -21585,3 +21585,21 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024085189,2024-06-28T19:01:37Z,1,45 to 49,Male,Point Douglas,NE088,Logan-C.P.R.,4
 2024085192,2024-06-28T19:04:25Z,1,65 to 69,Female,Point Douglas,NE088,Logan-C.P.R.,1
 2024085269,2024-06-28T22:20:31Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,2
+2024085342,2024-06-29T01:35:02Z,1,20 to 24,Female,Daniel McIntyre,NE174,Spence,1
+2024085417,2024-06-29T07:17:23Z,1,40 to 44,Female,Mynarski,NE232,William Whyte,1
+2024085458,2024-06-29T09:51:12Z,1,20 to 24,Female,Daniel McIntyre,NE136,Portage-Ellice,2
+2024085497,2024-06-29T11:35:43Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,1
+2024085512,2024-06-29T12:29:10Z,1,20 to 24,Female,Daniel McIntyre,NE025,Central Park,1
+2024085512,2024-06-29T12:12:42Z,2,25 to 29,Male,Daniel McIntyre,NE025,Central Park,2
+2024085524,2024-06-29T12:34:22Z,1,45 to 49,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024085574,2024-06-29T14:21:13Z,1,25 to 29,Female,Mynarski,NE180,St. John's,1
+2024085649,2024-06-29T17:45:24Z,1,35 to 39,Male,Daniel McIntyre,NE182,St. Matthews,2
+2024085669,2024-06-29T18:22:08Z,1,40 to 44,Male,St. James,NE224,West Wolseley,1
+2024085673,2024-06-29T18:35:45Z,1,50 to 54,Male,Charleswood - Tuxedo - Westwood,NE228,Westwood,1
+2024085689,2024-06-29T19:30:56Z,1,65 to 69,Male,Fort Rouge - East Fort Garry,NE168,South Portage,3
+2024085727,2024-06-29T20:53:11Z,1,65 to 69,Male,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2024085733,2024-06-29T21:03:31Z,1,40 to 44,Male,Daniel McIntyre,NE174,Spence,1
+2024085737,2024-06-29T21:14:00Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024085747,2024-06-29T21:35:05Z,1,45 to 49,Male,St. James,NE187,Sturgeon Creek,1
+2024085754,2024-06-29T21:44:59Z,1,25 to 29,Female,Point Douglas,NE226,Weston,1
+2024085780,2024-06-29T22:39:00Z,1,40 to 44,Female,Fort Rouge - East Fort Garry,NE100,McMillan,1
