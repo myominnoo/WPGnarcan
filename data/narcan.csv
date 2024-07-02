@@ -21615,3 +21615,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024086168,2024-06-30T18:42:13Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,2
 2024086168,2024-06-30T18:44:00Z,2,50 to 54,Male,Daniel McIntyre,NE025,Central Park,1
 2024086259,2024-06-30T22:34:17Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
+2024086297,2024-07-01T00:24:53Z,1,55 to 59,Male,St. Boniface,NE027,Central St. Boniface,3
+2024086359,2024-07-01T04:25:47Z,1,35 to 39,Male,Point Douglas,NE166,South Point Douglas,3
+2024086381,2024-07-01T05:55:21Z,1,35 to 39,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024086551,2024-07-01T13:48:34Z,1,30 to 34,Female,Mynarski,NE181,St. John's Park,1
+2024086596,2024-07-01T15:47:58Z,1,45 to 49,Female,Point Douglas,NE017,Brooklands,1
+2024086607,2024-07-01T16:28:13Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024086623,2024-07-01T17:45:36Z,1,30 to 34,Male,Elmwood - East Kildonan,NE075,Kildonan Crossing,1
+2024086635,2024-07-01T18:23:51Z,1,50 to 54,Male,NA,NA,NA,1
+2024086665,2024-07-01T19:26:02Z,1,30 to 34,Female,Mynarski,NE180,St. John's,1
