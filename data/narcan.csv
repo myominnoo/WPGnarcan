@@ -21659,3 +21659,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024088169,2024-07-04T16:53:41Z,1,50 to 54,Female,St. James,NE224,West Wolseley,1
 2024088283,2024-07-04T21:41:28Z,1,30 to 34,Male,Daniel McIntyre,NE182,St. Matthews,2
 2024088302,2024-07-04T22:26:58Z,1,25 to 29,Male,St. Boniface,NE233,Windsor Park,1
+2024088564,2024-07-05T13:56:38Z,1,25 to 29,Female,North Kildonan,NE156,Rossmere-A,1
+2024088655,2024-07-05T16:54:00Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,2
+2024088830,2024-07-05T23:45:52Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE083,Legislature,1
