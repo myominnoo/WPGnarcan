@@ -21612,8 +21612,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024086078,2024-06-30T15:21:54Z,1,35 to 39,Male,Charleswood - Tuxedo - Westwood,NE225,Westdale,1
 2024086106,2024-06-30T17:46:00Z,1,40 to 44,Male,NA,NA,NA,3
 2024086119,2024-06-30T17:04:48Z,1,40 to 44,Female,Daniel McIntyre,NE174,Spence,1
-2024086168,2024-06-30T18:42:13Z,1,35 to 39,Male,Daniel McIntyre,NE025,Central Park,2
-2024086168,2024-06-30T18:44:00Z,2,50 to 54,Male,Daniel McIntyre,NE025,Central Park,1
+2024086168,2024-06-30T18:44:00Z,1,50 to 54,Male,Daniel McIntyre,NE025,Central Park,1
+2024086168,2024-06-30T18:42:13Z,2,35 to 39,Male,Daniel McIntyre,NE025,Central Park,2
 2024086259,2024-06-30T22:34:17Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
 2024086297,2024-07-01T00:24:53Z,1,55 to 59,Male,St. Boniface,NE027,Central St. Boniface,3
 2024086359,2024-07-01T04:25:47Z,1,35 to 39,Male,Point Douglas,NE166,South Point Douglas,3
@@ -21662,3 +21662,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024088564,2024-07-05T13:56:38Z,1,25 to 29,Female,North Kildonan,NE156,Rossmere-A,1
 2024088655,2024-07-05T16:54:00Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,2
 2024088830,2024-07-05T23:45:52Z,1,35 to 39,Male,Fort Rouge - East Fort Garry,NE083,Legislature,1
+2024088854,2024-07-06T00:56:41Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024088904,2024-07-06T04:49:14Z,1,50 to 54,Male,Point Douglas,NE219,West Alexander,4
+2024089032,2024-07-06T12:06:21Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,3
+2024089046,2024-07-06T12:42:25Z,1,25 to 29,Female,Point Douglas,NE017,Brooklands,1
+2024089080,2024-07-06T13:54:37Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,2
+2024089171,2024-07-06T16:52:00Z,1,25 to 29,Female,Daniel McIntyre,NE174,Spence,3
+2024089203,2024-07-06T18:41:06Z,1,40 to 44,Male,Point Douglas,NE030,China Town,1
+2024089259,2024-07-06T21:18:59Z,1,30 to 34,Female,Mynarski,NE180,St. John's,1
