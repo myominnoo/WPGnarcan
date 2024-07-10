@@ -21682,3 +21682,12 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024090102,2024-07-08T15:25:48Z,1,30 to 34,Female,Mynarski,NE118,North Point Douglas,1
 2024090102,2024-07-08T15:25:48Z,2,40 to 44,Male,Mynarski,NE118,North Point Douglas,1
 2024090154,2024-07-08T17:41:48Z,1,55 to 59,Male,North Kildonan,NE148,Rivergrove,2
+2024090523,2024-07-09T12:21:39Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,2
+2024090527,2024-07-09T12:28:53Z,1,30 to 34,Male,Mynarski,NE090,Lord Selkirk Park,2
+2024090538,2024-07-09T12:43:00Z,1,25 to 29,Male,Mynarski,NE090,Lord Selkirk Park,2
+2024090637,2024-07-09T15:41:07Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024090668,2024-07-09T16:33:26Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,3
+2024090706,2024-07-09T17:50:50Z,1,30 to 34,Female,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024090793,2024-07-09T21:13:44Z,1,25 to 29,Male,Point Douglas,NE031,Civic Centre,2
+2024090799,2024-07-09T21:29:50Z,1,35 to 39,Male,Point Douglas,NE030,China Town,2
+2024090838,2024-07-09T23:03:03Z,1,40 to 44,Male,Daniel McIntyre,NE105,Minto,4
