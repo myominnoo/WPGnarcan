@@ -21791,3 +21791,15 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024095780,2024-07-19T20:25:47Z,1,50 to 54,Male,St. Boniface,NE027,Central St. Boniface,2
 2024095831,2024-07-19T22:32:29Z,1,40 to 44,Male,Mynarski,NE090,Lord Selkirk Park,1
 2024095864,2024-07-19T23:54:52Z,1,50 to 54,Female,St. James,NE002,Airport,1
+2024095822,2024-07-19T21:48:03Z,1,35 to 39,Male,Daniel McIntyre,NE174,Spence,3
+2024095889,2024-07-20T00:42:30Z,1,25 to 29,Female,Point Douglas,NE052,Exchange District,3
+2024095913,2024-07-20T02:25:53Z,1,35 to 39,Male,Point Douglas,NE088,Logan-C.P.R.,3
+2024095948,2024-07-20T04:40:44Z,1,35 to 39,Male,Daniel McIntyre,NE234,Wolseley,1
+2024095980,2024-07-20T06:48:30Z,1,30 to 34,Male,Point Douglas,NE052,Exchange District,4
+2024096056,2024-07-20T11:24:51Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,2
+2024096079,2024-07-20T11:57:56Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,2
+2024096094,2024-07-20T12:41:44Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,4
+2024096197,2024-07-20T16:30:43Z,1,30 to 34,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024096209,2024-07-20T17:10:13Z,1,15 to 19,Female,Mynarski,NE180,St. John's,1
+2024096225,2024-07-20T17:53:10Z,1,35 to 39,Male,St. Norbert - Seine River,NE145,River Park South,3
+2024096351,2024-07-20T22:18:06Z,1,60 to 64,Male,Fort Rouge - East Fort Garry,NE168,South Portage,2
