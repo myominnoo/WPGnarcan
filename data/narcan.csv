@@ -21810,3 +21810,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024096763,2024-07-21T18:23:22Z,1,20 to 24,Male,Point Douglas,NE030,China Town,2
 2024096784,2024-07-21T19:18:35Z,1,40 to 44,Female,Mynarski,NE090,Lord Selkirk Park,1
 2024096856,2024-07-21T22:11:55Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
+2024096268,2024-07-20T18:58:07Z,1,NA,Unknown,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024096944,2024-07-22T04:51:31Z,1,40 to 44,Male,Mynarski,NE118,North Point Douglas,3
+2024097105,2024-07-22T12:59:34Z,1,30 to 34,Male,Mynarski,NE040,Dufferin,2
+2024097138,2024-07-22T13:54:04Z,1,20 to 24,Female,Daniel McIntyre,NE136,Portage-Ellice,2
+2024097194,2024-07-22T15:34:04Z,1,40 to 44,Male,Elmwood - East Kildonan,NE046,East Elmwood,5
+2024097244,2024-07-22T16:52:49Z,1,20 to 24,Male,Point Douglas,NE219,West Alexander,2
+2024097339,2024-07-22T20:46:49Z,1,40 to 44,Male,St. Norbert - Seine River,NE054,Fort Richmond,3
