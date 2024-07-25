@@ -21817,3 +21817,26 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024097194,2024-07-22T15:34:04Z,1,40 to 44,Male,Elmwood - East Kildonan,NE046,East Elmwood,5
 2024097244,2024-07-22T16:52:49Z,1,20 to 24,Male,Point Douglas,NE219,West Alexander,2
 2024097339,2024-07-22T20:46:49Z,1,40 to 44,Male,St. Norbert - Seine River,NE054,Fort Richmond,3
+2024097406,2024-07-23T00:27:16Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE100,McMillan,1
+2024097468,2024-07-23T06:13:41Z,1,45 to 49,Female,Daniel McIntyre,NE038,Daniel McIntyre,5
+2024097512,2024-07-23T08:07:07Z,1,55 to 59,Male,Fort Rouge - East Fort Garry,NE154,Roslyn,2
+2024097520,2024-07-23T08:32:10Z,1,40 to 44,Male,Mynarski,NE090,Lord Selkirk Park,3
+2024097644,2024-07-23T12:54:32Z,1,30 to 34,Female,Point Douglas,NE166,South Point Douglas,1
+2024097658,2024-07-23T13:17:50Z,1,55 to 59,Male,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2024097784,2024-07-23T18:10:27Z,1,25 to 29,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024097787,2024-07-23T18:13:17Z,1,25 to 29,Female,Daniel McIntyre,NE025,Central Park,1
+2024097804,2024-07-23T18:55:32Z,1,55 to 59,Female,Point Douglas,NE226,Weston,1
+2024097834,2024-07-23T20:15:36Z,1,60 to 64,Male,Point Douglas,NE024,Centennial,1
+2024097863,2024-07-23T21:23:52Z,1,25 to 29,Female,St. James,NE179,St. James Industrial,1
+2024097963,2024-07-24T04:17:03Z,1,25 to 29,Female,Point Douglas,NE031,Civic Centre,1
+2024097984,2024-07-24T06:45:28Z,1,50 to 54,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,1
+2024098001,2024-07-24T07:35:36Z,1,25 to 29,Male,St. Vital,NE082,Lavalee,2
+2024098094,2024-07-24T12:08:38Z,1,35 to 39,Male,Mynarski,NE232,William Whyte,1
+2024098102,2024-07-24T12:39:40Z,1,40 to 44,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024098266,2024-07-24T17:42:11Z,1,45 to 49,Male,Daniel McIntyre,NE160,Sargent Park,4
+2024098307,2024-07-24T19:07:29Z,1,40 to 44,Female,Point Douglas,NE021,Burrows Central,1
+2024098310,2024-07-24T19:17:50Z,1,35 to 39,Male,Point Douglas,NE226,Weston,3
+2024098378,2024-07-24T21:30:17Z,1,25 to 29,Female,Mynarski,NE040,Dufferin,1
+2024098394,2024-07-24T21:58:28Z,1,30 to 34,Female,Point Douglas,NE088,Logan-C.P.R.,2
+2024098413,2024-07-24T22:40:23Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
+2024098432,2024-07-24T23:32:46Z,1,65 to 69,Male,Daniel McIntyre,NE136,Portage-Ellice,1
