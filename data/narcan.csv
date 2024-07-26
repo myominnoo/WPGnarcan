@@ -21840,3 +21840,13 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024098394,2024-07-24T21:58:28Z,1,30 to 34,Female,Point Douglas,NE088,Logan-C.P.R.,2
 2024098413,2024-07-24T22:40:23Z,1,25 to 29,Male,St. Boniface,NE027,Central St. Boniface,1
 2024098432,2024-07-24T23:32:46Z,1,65 to 69,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024098524,2024-07-25T05:56:00Z,1,20 to 24,Male,Point Douglas,NE226,Weston,1
+2024098643,2024-07-25T11:56:31Z,1,30 to 34,Female,St. James,NE134,Polo Park,5
+2024098791,2024-07-25T16:33:34Z,1,45 to 49,Female,Mynarski,NE118,North Point Douglas,2
+2024098820,2024-07-25T17:56:29Z,1,55 to 59,Male,St. Boniface,NE122,Norwood East,2
+2024098824,2024-07-25T18:06:22Z,1,35 to 39,Female,Point Douglas,NE024,Centennial,1
+2024098825,2024-07-25T18:11:26Z,1,35 to 39,Male,St. James,NE134,Polo Park,3
+2024098841,2024-07-25T18:54:28Z,1,40 to 44,Female,Daniel McIntyre,NE182,St. Matthews,1
+2024098901,2024-07-25T20:39:24Z,1,30 to 34,Female,Transcona,NE139,Regent,1
+2024098915,2024-07-25T21:10:51Z,1,40 to 44,Male,St. Boniface,NE027,Central St. Boniface,1
+2024098961,2024-07-25T23:02:19Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE045,Earl Grey,3
