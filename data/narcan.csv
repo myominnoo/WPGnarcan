@@ -21850,3 +21850,13 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024098901,2024-07-25T20:39:24Z,1,30 to 34,Female,Transcona,NE139,Regent,1
 2024098915,2024-07-25T21:10:51Z,1,40 to 44,Male,St. Boniface,NE027,Central St. Boniface,1
 2024098961,2024-07-25T23:02:19Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE045,Earl Grey,3
+2024098976,2024-07-26T00:00:23Z,1,20 to 24,Female,Point Douglas,NE166,South Point Douglas,1
+2024099047,2024-07-26T05:23:21Z,1,45 to 49,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024099058,2024-07-26T06:17:50Z,1,30 to 34,Male,Daniel McIntyre,NE033,Colony,2
+2024099209,2024-07-26T13:16:02Z,1,40 to 44,Male,Daniel McIntyre,NE174,Spence,1
+2024099220,2024-07-26T13:42:29Z,1,30 to 34,Female,Elmwood - East Kildonan,NE028,Chalmers,1
+2024099281,2024-07-26T15:29:50Z,1,NA,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,3
+2024099289,2024-07-26T15:48:38Z,1,40 to 44,Male,St. James,NE134,Polo Park,2
+2024099375,2024-07-26T18:40:56Z,1,40 to 44,Male,Daniel McIntyre,NE038,Daniel McIntyre,1
+2024099457,2024-07-26T21:32:44Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024099480,2024-07-26T22:32:22Z,1,40 to 44,Female,Point Douglas,NE166,South Point Douglas,1
