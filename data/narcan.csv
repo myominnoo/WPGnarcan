@@ -21906,8 +21906,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024101935,2024-07-31T15:51:16Z,1,40 to 44,Male,Point Douglas,NE024,Centennial,2
 2024101938,2024-07-31T15:57:31Z,1,30 to 34,Male,Daniel McIntyre,NE136,Portage-Ellice,4
 2024101980,2024-07-31T16:54:42Z,1,35 to 39,Male,Point Douglas,NE030,China Town,2
-2024102005,2024-07-31T17:34:21Z,1,25 to 29,Male,Point Douglas,NE024,Centennial,2
-2024102005,2024-07-31T17:31:39Z,2,35 to 39,Male,Point Douglas,NE024,Centennial,2
+2024102005,2024-07-31T17:31:39Z,1,35 to 39,Male,Point Douglas,NE024,Centennial,2
+2024102005,2024-07-31T17:34:21Z,2,25 to 29,Male,Point Douglas,NE024,Centennial,2
 2024102048,2024-07-31T19:09:01Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,2
 2024102075,2024-07-31T20:02:22Z,1,30 to 34,Male,Point Douglas,NE088,Logan-C.P.R.,1
 2024102094,2024-07-31T20:46:13Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,1
@@ -21938,3 +21938,10 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024103248,2024-08-02T21:26:21Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE006,Armstrong Point,4
 2024103249,2024-08-02T21:34:34Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,2
 2024103265,2024-08-02T22:21:15Z,1,30 to 34,Male,Point Douglas,NE031,Civic Centre,2
+2024103328,2024-08-03T01:01:56Z,1,30 to 34,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,1
+2024103329,2024-08-03T01:02:38Z,1,20 to 24,Male,Point Douglas,NE088,Logan-C.P.R.,2
+2024103330,2024-08-03T01:04:02Z,1,55 to 59,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,2
+2024103345,2024-08-03T01:39:16Z,1,NA,Unknown,Point Douglas,NE030,China Town,1
+2024103395,2024-08-03T04:59:52Z,1,15 to 19,Male,Fort Rouge - East Fort Garry,NE100,McMillan,2
+2024103558,2024-08-03T13:51:26Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024103771,2024-08-03T21:39:41Z,1,40 to 44,Male,St. James,NE134,Polo Park,1
