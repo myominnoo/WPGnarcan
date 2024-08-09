@@ -21963,3 +21963,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024105315,2024-08-07T12:17:56Z,1,30 to 34,Male,Point Douglas,NE052,Exchange District,2
 2024105368,2024-08-07T14:14:41Z,1,25 to 29,Female,Point Douglas,NE219,West Alexander,1
 2024105473,2024-08-07T17:33:31Z,1,40 to 44,Male,Charleswood - Tuxedo - Westwood,NE007,Assiniboia Downs,1
+2024105649,2024-08-08T01:55:14Z,1,35 to 39,Female,St. Boniface,NE027,Central St. Boniface,1
+2024106020,2024-08-08T21:03:18Z,1,50 to 54,Male,Daniel McIntyre,NE182,St. Matthews,2
+2024106044,2024-08-08T22:01:25Z,1,25 to 29,Female,Mynarski,NE181,St. John's Park,1
+2024106064,2024-08-08T22:51:04Z,1,35 to 39,Male,Daniel McIntyre,NE174,Spence,6
