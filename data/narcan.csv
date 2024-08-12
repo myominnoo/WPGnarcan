@@ -21950,8 +21950,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024104430,2024-08-05T13:02:49Z,1,55 to 59,Male,Daniel McIntyre,NE025,Central Park,1
 2024104490,2024-08-05T15:35:16Z,1,30 to 34,Male,Daniel McIntyre,NE025,Central Park,1
 2024104570,2024-08-05T19:02:50Z,1,55 to 59,Female,Mynarski,NE090,Lord Selkirk Park,1
-2024104630,2024-08-05T21:35:04Z,1,40 to 44,Female,Point Douglas,NE166,South Point Douglas,2
-2024104630,2024-08-05T21:44:51Z,2,40 to 44,Male,Point Douglas,NE166,South Point Douglas,3
+2024104630,2024-08-05T21:44:51Z,1,40 to 44,Male,Point Douglas,NE166,South Point Douglas,3
+2024104630,2024-08-05T21:35:04Z,2,40 to 44,Female,Point Douglas,NE166,South Point Douglas,2
 2024104719,2024-08-06T06:17:29Z,1,25 to 29,Female,Mynarski,NE066,Inkster-Faraday,2
 2024104830,2024-08-06T11:23:32Z,1,35 to 39,Female,Daniel McIntyre,NE182,St. Matthews,3
 2024104869,2024-08-06T13:25:45Z,1,55 to 59,Male,Mynarski,NE180,St. John's,1
@@ -21974,3 +21974,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024106718,2024-08-10T09:45:05Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
 2024106722,2024-08-10T10:00:40Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,4
 2024106947,2024-08-10T20:16:01Z,1,30 to 34,Male,Point Douglas,NE031,Civic Centre,2
+2024107061,2024-08-11T00:34:44Z,1,20 to 24,Male,Mynarski,NE232,William Whyte,1
+2024107105,2024-08-11T02:56:13Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2024107269,2024-08-11T13:08:55Z,1,25 to 29,Female,St. James,NE011,Birchwood,4
+2024107309,2024-08-11T14:23:23Z,1,40 to 44,Male,Mynarski,NE162,Seven Oaks,2
+2024107392,2024-08-11T18:31:01Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,1
+2024107503,2024-08-11T22:45:14Z,1,30 to 34,Female,Point Douglas,NE024,Centennial,2
