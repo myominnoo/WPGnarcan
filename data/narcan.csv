@@ -21980,3 +21980,5 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024107309,2024-08-11T14:23:23Z,1,40 to 44,Male,Mynarski,NE162,Seven Oaks,2
 2024107392,2024-08-11T18:31:01Z,1,30 to 34,Male,St. Boniface,NE027,Central St. Boniface,1
 2024107503,2024-08-11T22:45:14Z,1,30 to 34,Female,Point Douglas,NE024,Centennial,2
+2024107843,2024-08-12T17:04:27Z,1,35 to 39,Female,St. Boniface,NE027,Central St. Boniface,1
+2024107869,2024-08-12T18:37:50Z,1,25 to 29,Female,St. Boniface,NE027,Central St. Boniface,1
