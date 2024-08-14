@@ -21982,3 +21982,7 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024107503,2024-08-11T22:45:14Z,1,30 to 34,Female,Point Douglas,NE024,Centennial,2
 2024107843,2024-08-12T17:04:27Z,1,35 to 39,Female,St. Boniface,NE027,Central St. Boniface,1
 2024107869,2024-08-12T18:37:50Z,1,25 to 29,Female,St. Boniface,NE027,Central St. Boniface,1
+2024108186,2024-08-13T11:55:47Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,3
+2024108244,2024-08-13T14:14:11Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
+2024108349,2024-08-13T17:57:41Z,1,25 to 29,Female,Daniel McIntyre,NE174,Spence,1
+2024108413,2024-08-13T20:51:23Z,1,40 to 44,Male,Mynarski,NE118,North Point Douglas,1
