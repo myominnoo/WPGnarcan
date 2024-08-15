@@ -21986,3 +21986,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024108244,2024-08-13T14:14:11Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
 2024108349,2024-08-13T17:57:41Z,1,25 to 29,Female,Daniel McIntyre,NE174,Spence,1
 2024108413,2024-08-13T20:51:23Z,1,40 to 44,Male,Mynarski,NE118,North Point Douglas,1
+2024108543,2024-08-14T05:19:18Z,1,20 to 24,Male,Point Douglas,NE219,West Alexander,1
+2024108860,2024-08-14T19:39:47Z,1,60 to 64,Female,Point Douglas,NE024,Centennial,1
+2024108944,2024-08-14T23:41:13Z,1,20 to 24,Male,Daniel McIntyre,NE174,Spence,1
