@@ -22008,3 +22008,6 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024110604,2024-08-18T13:37:01Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,1
 2024110681,2024-08-18T16:09:27Z,1,25 to 29,Male,Daniel McIntyre,NE105,Minto,2
 2024110835,2024-08-18T22:34:50Z,1,30 to 34,Male,Charleswood - Tuxedo - Westwood,NE056,Glendale,4
+2024111025,2024-08-19T12:03:01Z,1,65 to 69,Female,Elmwood - East Kildonan,NE046,East Elmwood,2
+2024111267,2024-08-19T20:41:00Z,1,35 to 39,Female,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024111310,2024-08-19T22:14:50Z,1,25 to 29,Male,Point Douglas,NE219,West Alexander,5
