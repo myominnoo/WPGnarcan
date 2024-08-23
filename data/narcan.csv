@@ -22023,3 +22023,11 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024112139,2024-08-21T16:23:56Z,1,35 to 39,Female,Daniel McIntyre,NE136,Portage-Ellice,1
 2024112159,2024-08-21T17:09:26Z,1,30 to 34,Male,Mynarski,NE232,William Whyte,1
 2024112233,2024-08-21T20:29:37Z,1,40 to 44,Male,Waverley West,NE141,Richmond West,2
+2024112335,2024-08-22T01:36:33Z,1,NA,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024112348,2024-08-22T02:40:43Z,1,30 to 34,Male,St. James,NE224,West Wolseley,2
+2024112350,2024-08-22T02:44:19Z,1,30 to 34,Female,Daniel McIntyre,NE136,Portage-Ellice,1
+2024112409,2024-08-22T08:34:40Z,1,35 to 39,Female,Mynarski,NE232,William Whyte,3
+2024112490,2024-08-22T11:51:44Z,1,35 to 39,Male,Daniel McIntyre,NE136,Portage-Ellice,1
+2024112550,2024-08-22T14:08:31Z,1,30 to 34,Female,Mynarski,NE162,Seven Oaks,1
+2024112688,2024-08-22T18:23:47Z,1,50 to 54,Male,Mynarski,NE232,William Whyte,1
+2024112694,2024-08-22T18:47:08Z,1,25 to 29,Female,Daniel McIntyre,NE174,Spence,1
