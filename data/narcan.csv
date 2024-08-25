@@ -22040,3 +22040,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024113229,2024-08-23T19:29:02Z,1,60 to 64,Female,Elmwood - East Kildonan,NE028,Chalmers,2
 2024113270,2024-08-23T21:13:00Z,1,25 to 29,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,2
 2024113336,2024-08-23T23:56:17Z,1,45 to 49,Female,Mynarski,NE090,Lord Selkirk Park,1
+2024113380,2024-08-24T01:55:47Z,1,15 to 19,Female,Mynarski,NE040,Dufferin,1
+2024113423,2024-08-24T03:51:09Z,1,35 to 39,Female,Daniel McIntyre,NE174,Spence,5
+2024113426,2024-08-24T03:57:47Z,1,60 to 64,Female,Point Douglas,NE166,South Point Douglas,3
+2024113526,2024-08-24T11:11:29Z,1,80 to 84,Male,Charleswood - Tuxedo - Westwood,NE050,Elmhurst,1
+2024113677,2024-08-24T17:03:14Z,1,15 to 19,Female,Mynarski,NE180,St. John's,1
+2024113722,2024-08-24T18:28:39Z,1,50 to 54,Male,Point Douglas,NE088,Logan-C.P.R.,1
