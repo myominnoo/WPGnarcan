@@ -22087,3 +22087,25 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024116117,2024-08-29T14:06:45Z,1,55 to 59,Female,Daniel McIntyre,NE038,Daniel McIntyre,2
 2024116123,2024-08-29T14:18:53Z,1,55 to 59,Female,St. James,NE012,Booth,1
 2024116221,2024-08-29T18:00:00Z,1,30 to 34,Female,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine,2
+2024116445,2024-08-30T07:12:22Z,1,30 to 34,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024116518,2024-08-30T11:02:43Z,1,60 to 64,Male,Elmwood - East Kildonan,NE028,Chalmers,3
+2024116585,2024-08-30T13:39:48Z,1,35 to 39,Female,Mynarski,NE180,St. John's,1
+2024116760,2024-08-30T19:13:16Z,1,40 to 44,Male,Elmwood - East Kildonan,NE028,Chalmers,1
+2024116770,2024-08-30T19:40:34Z,1,30 to 34,Female,Daniel McIntyre,NE174,Spence,1
+2024116796,2024-08-30T20:22:14Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,1
+2024117040,2024-08-31T11:44:26Z,1,30 to 34,Male,Point Douglas,NE166,South Point Douglas,2
+2024117064,2024-08-31T12:42:26Z,1,35 to 39,Male,Point Douglas,NE226,Weston,1
+2024117076,2024-08-31T13:05:10Z,1,65 to 69,Female,North Kildonan,NE144,River East,2
+2024117116,2024-08-31T14:31:26Z,1,35 to 39,Female,Point Douglas,NE088,Logan-C.P.R.,1
+2024117281,2024-08-31T20:12:42Z,1,10 to 14,Female,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024117354,2024-08-31T22:32:05Z,1,20 to 24,Male,Fort Rouge - East Fort Garry,NE168,South Portage,1
+2024117397,2024-09-01T01:24:00Z,1,30 to 34,Female,NA,NA,NA,1
+2024117654,2024-09-01T14:43:03Z,1,55 to 59,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024117810,2024-09-01T21:15:36Z,1,25 to 29,Female,St. James,NE187,Sturgeon Creek,1
+2024117922,2024-09-02T05:28:21Z,1,40 to 44,Female,Point Douglas,NE226,Weston,1
+2024117952,2024-09-02T07:21:40Z,1,45 to 49,Male,Point Douglas,NE088,Logan-C.P.R.,1
+2024118314,2024-09-03T00:01:48Z,1,30 to 34,Male,Fort Rouge - East Fort Garry,NE220,West Broadway,1
+2024118373,2024-09-03T03:56:35Z,1,35 to 39,Male,Point Douglas,NE022,Burrows-Keewatin,5
+2024118446,2024-09-03T09:11:04Z,1,45 to 49,Male,Point Douglas,NE219,West Alexander,2
+2024118459,2024-09-03T09:59:50Z,1,30 to 34,Female,Point Douglas,NE226,Weston,2
+2024118608,2024-09-03T16:25:37Z,1,25 to 29,Female,Point Douglas,NE030,China Town,2
