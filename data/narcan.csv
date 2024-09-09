@@ -22124,3 +22124,9 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024120451,2024-09-07T17:58:19Z,1,20 to 24,Male,Point Douglas,NE052,Exchange District,1
 2024120542,2024-09-07T21:50:43Z,1,55 to 59,Male,Point Douglas,NE021,Burrows Central,4
 2024120579,2024-09-07T23:30:57Z,1,30 to 34,Female,Point Douglas,NE219,West Alexander,2
+2024120622,2024-09-08T01:35:24Z,1,35 to 39,Male,Mynarski,NE180,St. John's,3
+2024120891,2024-09-08T15:14:40Z,1,40 to 44,Male,Fort Rouge - East Fort Garry,NE089,Lord Roberts,3
+2024120932,2024-09-08T16:58:37Z,1,70 to 74,Female,Mynarski,NE090,Lord Selkirk Park,3
+2024120955,2024-09-08T17:56:02Z,1,20 to 24,Male,Waverley West,NE214,Prairie Pointe,2
+2024120998,2024-09-08T19:32:53Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,1
+2024121042,2024-09-08T21:03:02Z,1,40 to 44,Female,Point Douglas,NE024,Centennial,2
