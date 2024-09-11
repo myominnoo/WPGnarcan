@@ -22133,3 +22133,8 @@ incident_number,dispatch_date,patient_number,age,gender,ward,neighbourhood_id,ne
 2024121138,2024-09-09T03:30:59Z,1,25 to 29,Male,Daniel McIntyre,NE182,St. Matthews,2
 2024121239,2024-09-09T10:24:42Z,1,30 to 34,Male,Old Kildonan,NE085,Leila-McPhillips Triangle,2
 2024121429,2024-09-09T16:45:15Z,1,35 to 39,Male,Point Douglas,NE219,West Alexander,1
+2024121577,2024-09-10T00:00:45Z,1,25 to 29,Female,Mynarski,NE232,William Whyte,2
+2024121618,2024-09-10T03:21:51Z,1,60 to 64,Male,Mynarski,NE180,St. John's,5
+2024121755,2024-09-10T12:24:00Z,1,30 to 34,Male,Point Douglas,NE024,Centennial,2
+2024121833,2024-09-10T14:57:12Z,1,35 to 39,Female,Mynarski,NE095,Margaret Park,1
+2024122027,2024-09-10T23:23:20Z,1,35 to 39,Male,Point Douglas,NE030,China Town,1
