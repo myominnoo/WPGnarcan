@@ -22269,3 +22269,6 @@ id,incident_number,dispatch_date,patient_number,age,gender,naxolone_administrati
 2024134060##1,2024134060,2024-10-05T13:56:36Z,1,15 to 19,Female,1,Daniel McIntyre,NE174,Spence
 2024134102##1,2024134102,2024-10-05T15:15:55Z,1,50 to 54,Female,1,Daniel McIntyre,NE136,Portage-Ellice
 2024134274##1,2024134274,2024-10-05T21:00:12Z,1,25 to 29,Male,2,Daniel McIntyre,NE136,Portage-Ellice
+2024134637##1,2024134637,2024-10-06T15:11:11Z,1,30 to 34,Female,1,Daniel McIntyre,NE174,Spence
+2024134733##1,2024134733,2024-10-06T18:56:40Z,1,50 to 54,Female,2,Fort Rouge - East Fort Garry,NE220,West Broadway
+2024134639##1,2024134639,2024-10-06T15:16:19Z,1,25 to 29,Male,3,Point Douglas,NE219,West Alexander
