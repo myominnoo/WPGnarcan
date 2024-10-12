@@ -22302,3 +22302,12 @@ id,incident_number,dispatch_date,patient_number,age,gender,naxolone_administrati
 2024136448##1,2024136448,2024-10-10T10:40:21Z,1,35 to 39,Male,3,Fort Rouge - East Fort Garry,NE089,Lord Roberts
 2024136530##1,2024136530,2024-10-10T13:30:13Z,1,30 to 34,Female,2,Point Douglas,NE024,Centennial
 2024136594##1,2024136594,2024-10-10T15:08:47Z,1,50 to 54,Male,3,Daniel McIntyre,NE136,Portage-Ellice
+2024136856##1,2024136856,2024-10-11T01:43:40Z,1,35 to 39,Male,1,Point Douglas,NE024,Centennial
+2024136910##1,2024136910,2024-10-11T06:48:25Z,1,20 to 24,Female,1,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine
+2024137109##1,2024137109,2024-10-11T15:30:19Z,1,20 to 24,Female,1,Daniel McIntyre,NE038,Daniel McIntyre
+2024137198##1,2024137198,2024-10-11T18:22:06Z,1,20 to 24,Male,1,Point Douglas,NE166,South Point Douglas
+2024137205##1,2024137205,2024-10-11T18:39:22Z,1,NA,Unknown,1,Mynarski,NE180,St. John's
+2024137229##1,2024137229,2024-10-11T19:43:25Z,1,30 to 34,Female,1,Daniel McIntyre,NE025,Central Park
+2024137235##1,2024137235,2024-10-11T19:54:47Z,1,35 to 39,Male,2,Mynarski,NE232,William Whyte
+2024137098##1,2024137098,2024-10-11T14:58:28Z,1,35 to 39,Female,1,St. Boniface,NE027,Central St. Boniface
+2024137206##1,2024137206,2024-10-11T18:41:27Z,1,50 to 54,Female,1,Daniel McIntyre,NE136,Portage-Ellice
