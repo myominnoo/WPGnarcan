@@ -22364,3 +22364,11 @@ id,incident_number,dispatch_date,patient_number,age,gender,naxolone_administrati
 2024140878##1,2024140878,2024-10-19T13:50:52Z,1,30 to 34,Female,1,Daniel McIntyre,NE038,Daniel McIntyre
 2024140972##1,2024140972,2024-10-19T17:40:35Z,1,20 to 24,Female,1,St. James,NE179,St. James Industrial
 2024141082##1,2024141082,2024-10-19T21:14:13Z,1,35 to 39,Female,1,Point Douglas,NE166,South Point Douglas
+2024141175##1,2024141175,2024-10-20T01:05:20Z,1,35 to 39,Male,2,Mynarski,NE180,St. John's
+2024141343##1,2024141343,2024-10-20T12:13:06Z,1,50 to 54,Male,2,Mynarski,NE232,William Whyte
+2024141648##1,2024141648,2024-10-20T22:25:50Z,1,20 to 24,Male,3,Daniel McIntyre,NE038,Daniel McIntyre
+2024141232##1,2024141232,2024-10-20T05:32:07Z,1,15 to 19,Male,2,St. James,NE164,Silver Heights
+2024141298##1,2024141298,2024-10-20T09:24:27Z,1,30 to 34,Male,3,Fort Rouge - East Fort Garry,NE100,McMillan
+2024141646##1,2024141646,2024-10-20T22:18:29Z,1,40 to 44,Female,2,Point Douglas,NE166,South Point Douglas
+2024141652##1,2024141652,2024-10-20T22:40:20Z,1,30 to 34,Female,5,Elmwood - East Kildonan,NE028,Chalmers
+2024141673##1,2024141673,2024-10-20T23:59:01Z,1,50 to 54,Male,3,Point Douglas,NE166,South Point Douglas
