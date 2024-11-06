@@ -22515,3 +22515,7 @@ id,incident_number,dispatch_date,patient_number,age,gender,naxolone_administrati
 2024149364##1,2024149364,2024-11-04T20:16:49Z,1,20 to 24,Female,1,Point Douglas,NE052,Exchange District
 2024149376##1,2024149376,2024-11-04T20:44:08Z,1,35 to 39,Male,2,Point Douglas,NE030,China Town
 2024149395##1,2024149395,2024-11-04T21:21:34Z,1,25 to 29,Male,2,Mynarski,NE090,Lord Selkirk Park
+2024149734##1,2024149734,2024-11-05T15:49:56Z,1,40 to 44,Male,1,Fort Rouge - East Fort Garry,NE168,South Portage
+2024149820##1,2024149820,2024-11-05T18:23:42Z,1,45 to 49,Female,1,Mynarski,NE232,William Whyte
+2024149560##1,2024149560,2024-11-05T09:56:31Z,1,45 to 49,Female,1,Point Douglas,NE088,Logan-C.P.R.
+2024149774##1,2024149774,2024-11-05T17:00:23Z,1,45 to 49,Female,1,Mynarski,NE118,North Point Douglas
